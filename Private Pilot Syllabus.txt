@@ -30,10 +30,10 @@ Stage One
 
 Introduction to Flight
 
-Stage 1 - Induction to Flight
-Lesson 1
+Induction to Flight
+Stage 1 Lesson 1
 Dual Flight
-Flight Time 1.0
+Lesson Time 1.0
 
 Objectives
 Introduce the student flight.
@@ -56,13 +56,13 @@ Completion Standards
 The student has been introduced to and completed the tasks of the lesson.
 
 
-Stage 1 - Induction to Flight 
-Lesson 2
-Ground 
+Induction to Flight
+Stage 1 Lesson 2
+Ground Lesson
 Lesson Time 2.0
 
 Objectives
-This lesson will serve as the student’s initial ground briefing on Fundamentals of Flight, ERAU Flight Operations, ERAU checklists, and ERAU Procedures. Additionally, the instructor will introduce the aeronautical knowledge elements required prior to initial solo referencing applicable POH, the AFH, and the PHAK.
+This lesson will serve as the student’s initial ground briefing on Fundamentals of Flight, Pro Standards Flight Operations, Pro Standards checklists, and Pro Standards Procedures. Additionally, the instructor will introduce the aeronautical knowledge elements required prior to initial solo referencing applicable POH, the AFH, and the PHAK.
 
 
 Tasks
@@ -94,22 +94,18 @@ Completion Standards
 The student demonstrates an understanding of the knowledge elements required for Fundamentals of Flight, Safety of Flight Items, and the required aeronautical knowledge elements relating to Operation of Systems and National Airspace system. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.
 
 
-
-
-
-
 Fundamentals of Flight
 
-Stage 1 - Fundamentals Flight 
-Lesson 3
+Fundamentals of Flight
+Stage 1 Lesson 3
 Procedures Training
-Lesson Time 2.0
+Lesson Time 1.0
 
 Objectives
-The instructor will introduce the student to the required callouts, flows, and checklist Items in accordance with the ERAU SOPA. The instructor’s primary emphasis will be to facilitate the student’s understanding of the checklists and flow procedures. The student will not be expected to perform the flows in accordance with the ERAU Checklist Philosophy in this lesson.
+The instructor will introduce the student to the required callouts, flows, and checklist Items in accordance with the Pro Standards SOPA. The instructor’s primary emphasis will be to facilitate the student’s understanding of the checklists and flow procedures. The student will not be expected to perform the flows in accordance with the Pro Standards Checklist Philosophy in this lesson.
 
 Tasks
-ERAU Checklist Philosophy (SOPA)
+Pro Standards Checklist Philosophy (SOPA)
 Initial Aircraft Acceptance (SOPA)
 Standard Callouts (SOPA)
 Use of Checklists
@@ -131,11 +127,11 @@ Taxiing
 
 Completion Standards
 The student demonstrates an understanding of the knowledge elements required for checklist philosophy, use of flows, cockpit procedures, safety of flight items, and the required aeronautical knowledge elements relating to operation of systems. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.
-
-Stage 1 - Fundamentals Flight 
-Lesson 4
+Fundamentals of Flight
+Stage 1 Lesson 4
 Dual Flight
 Lesson Time 2.0
+
 
 Objectives
 This lesson will serve as the student’s first opportunity to practice the skills and knowledge acquired in previous lessons relating to Fundamentals of Flight, callouts, flows, checklists and procedures. Additionally, the instructor will discuss with the student elements relating to Preflight Assessment to include Weather Information, Initial Aircraft Acceptance, and Performance and Limitations.
@@ -174,13 +170,48 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-The student demonstrates the aeronautical knowledge and skill required to perform the tasks related to Fundamentals of Flight. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.Stage 1 - Fundamentals Flight 
-Lesson 5
-Ground
+The student demonstrates the aeronautical knowledge and skill required to perform the tasks related to Fundamentals of Flight. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.Fundamentals of Flight
+Stage 1 Lesson 5
+Ground Lesson
 Lesson Time 2.0
 
+FUNDAMENTALS OF FLIGHT
+
+OBJECTIVES
+Exhibit knowledge of the principles of aerodynamics, and stall
+awareness, spin entry, spins, and spin recovery techniques.
+
+TASKS
+
+Lift and Basic Aerodynamics
+Major Components and Subcomponents
+Types of Aircraft Construction
+Structure of the Atmosphere
+Theories in the Production of Lift
+Airfoil Design
+Forces Acting on the Aircraft
+Wingtip Vortices and Ground Effect
+Axes of an Aircraft
+Aircraft Design Characteristics
+Aerodynamic Forces in Flight Maneuvers
+Stalls and Spins
+Stall/Spin Awareness
+Propeller Principles
+Load Factors
+Primary Flight Controls
+Secondary Flight Controls
+Coordinated Flight
+Adverse Yaw
+
+Completion StandardsManeuvers
+
+Maneuvers
+Stage 1 Lesson 6
+Maneuvers Briefing
+Lesson Time 1.0
+
 Objectives
-The instructor will introduce additional required aeronautical knowledge areas and skills to include Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Slow Flight, and Steep Turns. In addition, the instructor will introduce further Safety of Flight items as defined in the Private Pilot Airman Certification Standards. All maneuvers will be introduced in accordance with the ERAU Standardization Manual with reference to the applicable POH, the AFH, and the PHAK.
+The instructor will introduce additional required aeronautical knowledge areas and skills to include Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Slow Flight, and Steep Turns. In addition, the instructor will introduce further Safety of Flight items as defined in the Private Pilot Airman Certification Standards. All maneuvers will be introduced in accordance with the Pro Standards Standardization Manual with reference to the applicable POH, the AFH, and the PHAK.
 
 TASK
 Safety of Flight
@@ -203,10 +234,11 @@ Power-Off Stalls
 Power-On Stalls
 Spin Awareness
 
-Notes: 2.0 Hrs. Ground Briefing (Suggested)
-
 Completion Standard
-The student demonstrates an understanding of the required knowledge of the tasks related to Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Slow Flight, and Steep Turns. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.LESSON 6B - FLIGHT (DUAL) 
+The student demonstrates an understanding of the required knowledge of the tasks related to Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Slow Flight, and Steep Turns. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.Maneuvers
+Stage 1 Lesson 7
+Dual Flight
+Lesson Time 2.0
 
 Objectives
 The student will practice the skills associated with Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Slow Flight, and Steep Turns. Emphasis will be on developing the student’s understanding of the associated tasks and the relevant aircraft performance.
@@ -233,11 +265,14 @@ Power-On Stalls
 Spin Awareness
 After Landing, Parking and Securing
 
-Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
+Notes: 1.0 Pre Brief / 1.5 Flight / .3 Post Briefing
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to the tasks of Stalls, Slow Flight, and Steep Turns by performing the tasks in accordance to the ERAU Standardization Manual within the prescribed standards of the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
-LESSON 7 - FLIGHT (DUAL) 
+This lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to the tasks of Stalls, Slow Flight, and Steep Turns by performing the tasks in accordance to the Pro Standards Standardization Manual within the prescribed standards of the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
+Maneuvers
+Stage 1 Lesson 8
+Dual Flight
+Lesson Time 2.0
 
 Objectives
 The student will practice the skills associated with Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Slow Flight, and Steep Turns. Emphasis will be on developing the student’s understanding of the associated tasks and the relevant aircraft performance.
@@ -265,33 +300,44 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to the tasks of Stalls, Slow Flight, and Steep Turns by performing the tasks in accordance with the ERAU Standardization Manual within the prescribed standards of the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.LESSON 8 – GROUND BRIEFING – COCKPIT PROCEDURES TRAINER (CPT) 
+This lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to the tasks of Stalls, Slow Flight, and Steep Turns by performing the tasks in accordance with the Pro Standards Standardization Manual within the prescribed standards of the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.Maneuvers
+Stage 1 Lesson 9
+Ground Lesson
+Lesson Time 2.0
 
-Objectives
-The student will complete each checklist in a CPT as a flow pattern, followed by the checklist verification with no more than one missed flow item per checklist with no missed items during checklist verification. In addition, the instructor will introduce the student to Ground Reference Maneuvers in accordance with the ERAU Standardization Manual and the Airplane Flying Handbook as well as additional Safety of Flight items in accordance with the Private Pilot Airman Certification Standards.
 
-TASK
-Runway Incursion Avoidance
-Wind Shear and Wake Turbulence Avoidance
-Before Start (SOPA)
-Engine Priming (SOPA)
-Engine Starting (SOPA)
-Before Taxi (SOPA)
-Before Takeoff (SOPA)
-Takeoff (SOPA)
-Climb (SOPA)
-Cruise (SOPA)
-In-Range (SOPA)
-After Landing (SOPA)
-Shutdown/Secure (SOPA)
-Ground Reference Maneuvers
-Ground Reference Maneuvers (Rectangular course)
-Ground Reference Maneuvers (S-turns)
-Ground Reference Maneuvers (Turns around a point)
+LEGAL REQUIREMENTS FOR FLIGHT
 
-Completion Standard
-The student completes each checklist, from memory, with a maximum on one missed item per checklist, with no missed items allowed during checklist verification. Additionally, the student demonstrates an understanding of the elements related the Ground Reference Maneuvers Area of Operation.
-LESSON 9 - FLIGHT (DUAL) 
+OBJECTIVES
+Exhibit knowledge of applicable federal aviation regulations for
+private pilot privileges, limitations, and flight operations; accident reporting
+requirements of the National Transportation Safety Board; and applicable
+subjects of the “Aeronautical Information Manual” and appropriate FAA
+advisory circulars.
+
+TASKS
+
+Federal Aviation Regulations (14 CFRs)
+14 CFR Part 1 – Definitions and Abbreviations
+14 CFR Part 43 – Maintenance, Preventive Maintenance, Rebuilding and Alteration
+14 CFR Part 61 – Certification: Pilots, Flight Instructors, and Ground Instructors
+14 CFR Part 91 – General Operating and Flight Rules
+Aeronautical Information Manual
+Advisory Circulars
+NTSB Part 830
+Airplane Flight Manuals
+Aircraft Documents
+Aircraft Inspections
+Preventative Maintenance
+Minimum Equipment Lists
+Operations with Inoperative Equipment
+Aircraft Owner/Operator Responsibilities
+Airworthiness Directives
+
+Completion StandardsManeuvers
+Stage 1 Lesson 10
+Dual Flight
+Lesson Time 2.0
 
 Objectives
 The student will practice the skills Preflight Assessment, Normal Takeoffs and Landings, Traffic Pattern and Airport Operations, Stalls, Steep Turns and Ground Reference Maneuvers. Emphasis will be on developing the student’s understanding of the associated tasks and the relevant aircraft performance. Additionally, the instructor will demonstrate Accelerated Stalls and Cross-Control Stalls to the student with emphasis on avoidance.
@@ -324,8 +370,11 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to the tasks of Stalls, Steep Turns, S-Turns, and Turns Around a Point by performing the tasks in accordance to the ERAU Standardization Manual within the prescribed standards of the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
-LESSON 10 - FLIGHT (DUAL) 
+This lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to the tasks of Stalls, Steep Turns, S-Turns, and Turns Around a Point by performing the tasks in accordance to the Pro Standards Standardization Manual within the prescribed standards of the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
+Maneuvers
+Stage 1 Lesson 11
+Dual Flight
+Lesson Time 2.0 
 
 Objectives
 The student will practice the skills Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Steep Turns and Ground Reference Maneuvers. Emphasis will be on developing the student’s understanding of the associated tasks and the relevant aircraft performance. Additionally, the instructor will demonstrate Elevator Trim Stalls and Secondary Stalls to the student with emphasis on avoidance.
@@ -355,12 +404,49 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to the tasks of Stalls, Steep Turns, and Ground Reference Maneuvers by performing the tasks in accordance to the ERAU Standardization Manual within the prescribed standards of the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.LESSON 11 - FLIGHT (DUAL) 
+This lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to the tasks of Stalls, Steep Turns, and Ground Reference Maneuvers by performing the tasks in accordance to the Pro Standards Standardization Manual within the prescribed standards of the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
+Procedures Validation 
+
+Procedures Validation
+Stage 1 Lesson 12
+Procedures Validation
+Lesson Time 2.0 
+
+
+Objectives
+The student will complete each checklist in a CPT as a flow pattern, followed by the checklist verification with no more than one missed flow item per checklist with no missed items during checklist verification. In addition, the instructor will introduce the student to Ground Reference Maneuvers in accordance with the Pro Standards Standardization Manual and the Airplane Flying Handbook as well as additional Safety of Flight items in accordance with the Private Pilot Airman Certification Standards.
+
+TASKS
+Runway Incursion Avoidance
+Wind Shear and Wake Turbulence Avoidance
+Before Start (SOPA)
+Engine Priming (SOPA)
+Engine Starting (SOPA)
+Before Taxi (SOPA)
+Before Takeoff (SOPA)
+Takeoff (SOPA)
+Climb (SOPA)
+Cruise (SOPA)
+In-Range (SOPA)
+After Landing (SOPA)
+Shutdown/Secure (SOPA)
+Ground Reference Maneuvers
+Ground Reference Maneuvers (Rectangular course)
+Ground Reference Maneuvers (S-turns)
+Ground Reference Maneuvers (Turns around a point)
+
+Completion Standard
+The student completes each checklist, from memory, with a maximum on one missed item per checklist, with no missed items allowed during checklist verification. Additionally, the student demonstrates an understanding of the elements related the Ground Reference Maneuvers Area of Operation.Maneuvers Validation 
+
+Maneuvers Validation
+Stage 1 Lesson 13
+Maneuvers Validation
+Lesson Time 2.0
 
 Objectives
 The student will demonstrate the skills associated with Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Steep Turns and Ground Reference Maneuvers on a flight conducted by an instructor other than the student’s assigned instructor. Emphasis will be on ensuring the student’s understanding of the associated tasks and the relevant aircraft performance while focusing on VFR flight techniques.
 
-TASK
+TASKS
 Safety of Flight
 Weather Information
 Performance and Limitations
@@ -385,28 +471,44 @@ Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 This lesson will be initially conducted by an instructor pilot other than the student’s assigned instructor. The review will focus on VFR flight by outside references as it pertains to the basic tasks of Steep Turns, Ground Reference Maneuvers, Stalls, and Slow Flight. Repeats of this lesson may be completed by the student’s assigned IP.
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to the tasks of Stalls, Maneuvering During Slow Flight, Steep Turns, and Ground Reference Maneuvers by performing the tasks in accordance to the ERAU Standardization Manual within the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt
+This lesson will be graded at +50% ACS. The student demonstrates an understanding of the elements related to the tasks of Stalls, Maneuvering During Slow Flight, Steep Turns, and Ground Reference Maneuvers by performing the tasks in accordance to the Pro Standards Standardization Manual within the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt
 
+Landings
 
+Landings
+Stage 1 Lesson 14
+Ground Lesson
+Lesson Time 2.0
 
-Stage Two
+PERFORMANCE AND LIMITATIONS
+
+OBJECTIVES
+Exhibit knowledge of weight and balance computations,
+aircraft performance, including effects of density altitude on takeoff and climb
+performance, and preflight action including data on takeoff and landing
+distances.
+
+TASKS
+
+Weight and Balance Computations
+Center of Gravity
+Moment and Moment Arm
+Importance of Performance Data
+Pressure Altitude
+Density Altitude
+Takeoff and Landing Performance
+Performance Speeds and Charts
+
+Completion StandardsLandings
+Stage 1 Lesson 15
+Maneuvers Briefing
+Lesson Time 2.0
 
 Objectives
-To teach the student the aeronautical knowledge and skill of takeoffs and landings, including normal and crosswind takeoffs and Climbs, normal approaches and landings, go-around/rejected landings and forward slips to landings. Also, the student’s knowledge and experience in Traffic Patterns will be further developed.
-
-Suggested Completion Time
-Ground Briefing: 8.1 hrs.
-Dual Simulator Training: 2.0 hrs.
-Dual Flight Training: 6.8 hrs.
-
-
-LESSON 12 - GROUND BRIEFING (GND) 
-
-Objectives
-The instructor will introduce the student to the concepts required to develop the aeronautical knowledge and skill to perform Crosswind Takeoffs and Landings in accordance with the ERAU Standardization Manual, ERAU Flight Operations Manual, and the ERAU Private Pilot, Stage 1 Course Standards. Additionally, the instructor will further develop the student’s understanding of Airport Operations and enhance the student’s understanding of required aeronautical knowledge areas in accordance with the ERAU Private Pilot, Stage 1 Course Standards.
+The instructor will introduce the student to the concepts required to develop the aeronautical knowledge and skill to perform Crosswind Takeoffs and Landings in accordance with the Pro Standards Standardization Manual, Pro Standards Flight Operations Manual, and the Pro Standards Private Pilot, Stage 1 Course Standards. Additionally, the instructor will further develop the student’s understanding of Airport Operations and enhance the student’s understanding of required aeronautical knowledge areas in accordance with the Pro Standards Private Pilot, Stage 1 Course Standards.
 
 TASK
-ERAU Flight Operations Manual
+Pro Standards Flight Operations Manual
 Pilot Qualifications
 Airworthiness Requirements
 Weather Information
@@ -418,38 +520,24 @@ Airport, Taxiway, and Runway Signs and Markings
 Crosswind Takeoff and Climb (Standardization Manual)
 Crosswind Approach and Landing (Standardization Manual)
 Go-Around/Rejected Landing
+
 Notes: 2.0 Hrs. Ground Briefing (Suggested)
 
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student demonstrates an understanding of the procedures required to perform Crosswind Takeoffs and Landings in accordance with the applicable POH, the AFH, the PHAK, and the ERAU Standardization Manual. Additionally, the student demonstrates an understanding of the relevant safety of flight considerations as well as an understanding of the required aeronautical knowledge elements prescribed in the Private Pilot Airplane Airman Certification Standards.
-
-LESSON 13A - SIMULATOR (SIM) 
-
-Objectives
-The instructor will demonstrate and then have the student practice Normal Takeoffs and Landings as well as Airport Operations. This lesson will be conducted with the simulator set up with crosswinds to further develop the student’s knowledge and skills of the fundamentals of normal and crosswind approaches and landings.
-
-TASK
-Airport Operations
-Communications, Light Signals, and Runway Lighting Systems
-Traffic Patterns
-Normal Takeoff and Climb
-Normal Approach and Landing
-Go-Around/Rejected Landing
-
-Notes: 1.0 hrs. Dual Simulator Training and 0.5 hrs. Pre and Post Briefing (Suggested) 
-This lesson is intended as the student’s first comprehensive practice of normal and crosswind approaches and landings. This lesson should cover takeoff and landings with no wind, and a crosswind from the left and right. The simulator should be set up to reproduce at least a 10kt crosswind for the crosswind landings so that proper crosswind control technique and control inputs can be demonstrated. There should be emphasis on establishing a crab on final approach, transitioning to a side slip (Wing low) prior to 100 feet AGL, touchdown on the upwind wheel, and follow through with proper rudder and aileron controls until slowed to a normal taxi speed.
-
-Completion Standard
-This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the ERAU Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
+This lesson will be graded at +50% ACS. The student demonstrates an understanding of the procedures required to perform Crosswind Takeoffs and Landings in accordance with the applicable POH, the AFH, the PHAK, and the Pro Standards Standardization Manual. Additionally, the student demonstrates an understanding of the relevant safety of flight considerations as well as an understanding of the required aeronautical knowledge elements prescribed in the Private Pilot Airplane Airman Certification Standards.
 
 
-LESSON 13B - FLIGHT (DUAL) Objectives
+
+Landings
+Stage 1 Lesson 16
+Dual Flight
+Lesson Time 2.0
 
 The instructor will demonstrate and then have the student practice Normal Takeoffs and Landings as well as Airport Operations. This lesson will be conducted in calm winds and weather to further develop the student’s knowledge and skills of the fundamentals of Normal Approaches and Landings.
 
 TASK
-ERAU Flight Operations Manual
+Pro Standards Flight Operations Manual
 Safety of Flight
 Weather Information
 Performance and Limitations
@@ -471,11 +559,14 @@ Notes: 1.3 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 This lesson is intended as the student’s first comprehensive practice of Normal Approaches and Landings. This lesson should, weather and schedule permitting, be completed in light winds to give the student ideal conditions for learning the fundamentals of Normal Approaches and Landings.
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the ERAU Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
+This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
 
 
 
-LESSON 14 - GROUND BRIEFING (GND) Objectives
+Landings
+Stage 1 Lesson 17
+Dual Flight
+Lesson Time 2.0
 
 The instructor and student will discuss the previously introduced elements related to the effects of wind on Takeoffs, Landings, and the Traffic Pattern.
 
@@ -492,24 +583,22 @@ Approach and Landing (Headwind, Tailwind, Crosswind)
 Forward Slip to a Landing
 Go-Around/Rejected Landing
 
-Optional Tasks
-X-Wind Trainer (Establishing a crab angle, Left and Right)
-X-Wind Trainer (Establishing side slip, left and right)
-X-Wind Trainer (Simulated X-winds Left and Right)
-X-Wind Trainer (Simulated X-winds with gusting conditions)
-
 Notes: 2.0 Hrs. Ground Briefing (Suggested) 
 This lesson may include training in the “X-Wind” crosswind simulator. This is optional.
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student demonstrates an understanding of the skills required to successfully perform Crosswind Landings. Additionally, the student demonstrates the knowledge required to successfully perform Crosswind Landings. The student’s understanding and knowledge will be based on the applicable POH, the AFH, the PHAK, and the ERAU Standardization Manual.
+This lesson will be graded at +50% ACS. The student demonstrates an understanding of the skills required to successfully perform Crosswind Landings. Additionally, the student demonstrates the knowledge required to successfully perform Crosswind Landings. The student’s understanding and knowledge will be based on the applicable POH, the AFH, the PHAK, and the Pro Standards Standardization Manual.
 
 
-LESSON 15 - FLIGHT (DUAL) Objectives
+Landings
+Stage 1 Lesson 18
+Dual Flight
+Lesson Time 2.0
+
 The instructor and student will practice Normal Takeoffs and Landings as well as Traffic Pattern operations. This lesson will further enhance the student’s knowledge and skills required to perform the required tasks associated with Takeoffs, Landings, and Airport Operations.
 
 TASK
-ERAU Flight Operations Manual
+Pro Standards Flight Operations Manual
 Safety of Flight
 Weather Information
 Performance and Limitations
@@ -529,11 +618,15 @@ After Landing, Parking and Securing
 Notes: 1.3 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the ERAU Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.LESSON 16 - FLIGHT (DUAL) Objectives
+This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.Landings
+Stage 1 Lesson 19
+Dual Flight
+Lesson Time 2.0
+
 The instructor and student will practice Normal Takeoffs and Landings as well as Traffic Pattern operations. This lesson will further enhance the student’s knowledge and skills required to perform the required tasks associated with Takeoffs, Landings, and Airport Operations.
 
 TASK
-ERAU Flight Operations Manual
+Pro Standards Flight Operations Manual
 Safety of Flight
 Weather Information
 Performance and Limitations
@@ -554,27 +647,37 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the ERAU Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.LESSON 17A - SIMULATOR (SIM) Objectives
+This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.Landings
+Stage 1 Lesson 20
+Ground Lesson
+Lesson Time 2.0
+
+NATIONAL AIRSPACE SYSTEM
+
+OBJECTIVE 
+Exhibits knowledge of the National Airspace System.
+
+TASKS
+
+Categories and Types of Airspace
+Controlled Airspace
+Uncontrolled Airspace
+Airspace and VFR Weather Minimums
+Special VFR
+Special-Use Airspace
+Special Airspace Areas
+Other Airspace Areas
+AIRSPACE AND VFR WEATHER MINIMUM LAB.
+
+COMPLETION STANDARDSLandings
+Stage 1 Lesson 21
+Dual Flight
+Lesson Time 2.0
 
 The instructor and student will practice Normal Takeoffs and Landings as well as Traffic Pattern operations. This lesson will further enhance the student’s knowledge and skills required to perform the required tasks associated with Takeoffs, Landings, and Airport Operations. In addition, the instructor will introduce abnormal landings such as No-Flap Landings and Normal and Crosswind Approach and Landing (By Reference to Standby Instruments).
 
 TASK
-Communications, Light Signals, and Runway Lighting Systems
-Traffic Patterns
-Normal Takeoff and Climb
-Normal Approach and Landing
-No-Flap Landing (Standardization Manual)
-Normal and Crosswind Approach and Landing (By Reference to Standby Instruments)
-Forward Slip to a Landing
-Go-Around/Rejected Landing
-Notes: 1.0 Hrs. Dual Simulator Training and 0.5 hrs. Pre and Post Briefing (Suggested)
-
-Completion Standard
-This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the ERAU Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.LESSON 17B - FLIGHT (DUAL) Objectives
-The instructor and student will practice Normal Takeoffs and Landings as well as Traffic Pattern operations. This lesson will further enhance the student’s knowledge and skills required to perform the required tasks associated with Takeoffs, Landings, and Airport Operations. In addition, the instructor will introduce abnormal landings such as No-Flap Landings and Normal and Crosswind Approach and Landing (By Reference to Standby Instruments).
-
-TASK
-ERAU Flight Operations Manual
+Pro Standards Flight Operations Manual
 Safety of Flight
 Weather Information
 Performance and Limitations
@@ -597,12 +700,16 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the ERAU Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
-LESSON 18 - FLIGHT (DUAL) Objectives
+This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
+Landings
+Stage 1 Lesson 22
+Dual Flight
+Lesson Time 2.0
+
 The instructor and student will practice Normal Takeoffs and Landings as well as Traffic Pattern operations. The Instructor will review the student’s knowledge and skills required to perform the required tasks associated with Takeoffs, Landings, and Airport Operations, and abnormal landings such as No-Flap Landings and Normal and Crosswind Approach and Landing (By Reference to Standby Instruments).
 
 TASK
-ERAU Flight Operations Manual
+Pro Standards Flight Operations Manual
 Safety of Flight
 Weather Information
 Performance and Limitations
@@ -625,28 +732,25 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the ERAU Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
+This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
 
-STAGE 3
 
-Objective
-To teach the student the aeronautical knowledge and skill of emergency procedures including Systems and Equipment Malfunction, checklist procedures, and emergency approaches and landings.
 
-Suggested Completion Time
-Ground Briefing: 5.5 hrs.
-Dual Simulator Training: 1.0 hrs.
-Dual Flight Training: 2.8 hrs.
 
-Notes: For the purposes of this Section the Instructor shall not consider any TASK as complete until the instructor has reviewed all Knowledge, Risk Management, and Skills associated with each task as outlined in the applicable ACS.
 
-LESSON 19 - GROUND BRIEFING (GND) 
+Emergencies
+
+Emergencies
+Stage 1 Lesson 23
+Maneuvers Briefing
+Lesson Time 2.0
 
 Objectives
-The instructor will introduce the student to the concepts required to safely operate the aircraft in emergency conditions and with various systems and equipment malfunctions. The instructor will, additionally, review with the student previously covered Preflight Assessment tasks including Airworthiness Requirements and Operation of Systems. The instructor will emphasize Operation of Systems in relation to Systems and Equipment Malfunctions with reference to on the applicable POH, the AFH, the PHAK, and the ERAU Standardization Manual, and the ERAU SOPA.
+The instructor will introduce the student to the concepts required to safely operate the aircraft in emergency conditions and with various systems and equipment malfunctions. The instructor will, additionally, review with the student previously covered Preflight Assessment tasks including Airworthiness Requirements and Operation of Systems. The instructor will emphasize Operation of Systems in relation to Systems and Equipment Malfunctions with reference to on the applicable POH, the AFH, the PHAK, and the Pro Standards Standardization Manual, and the Pro Standards SOPA.
 
 TASK
-ERAU Publications
-ERAU Checklist Philosophy (SOPA)
+Pro Standards Publications
+Pro Standards Checklist Philosophy (SOPA)
 Initial Aircraft Acceptance (SOPA)
 Standard Callouts (SOPA)
 Safety of Flight
@@ -665,9 +769,12 @@ Notes: 2.0 Hrs. Ground Briefing (Suggested)
 The instructor will brief the student on acceptable methods for simulating malfunctions with the G1000 as outlined in the FOM.
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student demonstrates an understanding of all tasks in accordance with the requirements of the Private Pilot Airplane Airman Certification Standards as well as all procedures outlined in the ERAU Standardization Manual.
+This lesson will be graded at +50% ACS. The student demonstrates an understanding of all tasks in accordance with the requirements of the Private Pilot Airplane Airman Certification Standards as well as all procedures outlined in the Pro Standards Standardization Manual.
 
-LESSON 20 – GROUND BRIEFING – (CPT) 
+Emergencies
+Stage 1 Lesson 24
+Procedures Training
+Lesson Time 2.0
 
 Objectives
 The student will complete each checklist in a CPT as a flow pattern, followed by the checklist verification with no more than one missed flow item per checklist with no missed items during checklist verification.
@@ -694,34 +801,15 @@ Notes: 2.0 Hrs. Ground Briefing (Suggested)
 The student will be asked to complete each checklist as a flow pattern, followed by checklist verification (Do/Verify method). The student will be given an opportunity to correct missed flow items by checklist verification. No more than one missed flow item per checklist is allowed. No missed items are allowed during checklist verification. This lesson must be repeated until the student can meet the above stated standard.
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student completes each checklist, from memory, with a maximum on one missed item per checklist, with no missed items allowed during checklist verification.LESSON 21 - SIMULATOR (SIM)
-
- Objectives
-The student will practice various Systems and Equipment Malfunctions utilizing the flight Simulation device. The instructor and student will emphasize checklists, flows, and procedures discussed in previous lessons. The instructor will additionally provide the student with a variety of scenarios to develop Aeronautical Decision Making during malfunctions and emergencies.
-
-TASK
-Operation of Systems
-Emergency Descent
-Emergency Approach and Landing (Simulated)
-Engine Failure in the Traffic Pattern
-Systems and Equipment Malfunction (Electrical Fire on Ground and in Flight)
-Systems and Equipment Malfunction (Engine Fire on Ground and in Flight)
-Systems and Equipment Malfunction (Partial / Complete Power Loss)
-Systems and Equipment Malfunction (Radio Failure)
-Systems and Equipment Malfunctions (Various)
-Pitot Static System Malfunctions and Failures
-G1000 Malfunctions and Failures
-Emergency Equipment and Survival Gear
-
-Notes: 1.0 hrs. Dual Simulator Training and 0.5 hrs. Pre and Post Briefing (Suggested) 
-Emphasis should be placed on the demonstration performance method of instruction for the emergency descent and emergency approach and landing. The IP should include the following scenarios for the student on this lesson: abnormality before rotation, engine failure after liftoff, engine failure with no runway remaining, engine abnormality in the traffic pattern, engine failure or fire during cruise flight.
-
-Completion Standard
-This lesson will be graded at +50% ACS. Student demonstrates an understanding of the elements related to Systems and Equipment Malfunctions by performing all the tasks in accordance with the ERAU Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.
+This lesson will be graded at +50% ACS. The student completes each checklist, from memory, with a maximum on one missed item per checklist, with no missed items allowed during checklist verification.
 
 
+Emergencies
+Stage 1 Lesson 25
+Dual Flight
+Lesson Time 2.0
 
-LESSON 22 - FLIGHT (DUAL) Objectives
+Objectives
 The student will practice various Systems and Equipment Malfunctions in the aircraft while also generating an understanding of the aircraft’s operation and handling during emergency operations. The instructor will additionally provide the student with a variety of scenarios to develop Aeronautical Decision Making during malfunctions and emergencies.
 
 TASK
@@ -755,7 +843,10 @@ Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 G1000 Malfunctions may be simulated by covering the PFD with a vinyl sticker, dimming the display, or by covering parts of the display using a vinyl sticker.
 
 Completion Standard
-This lesson will be graded at +50% ACS. Student demonstrates an understanding of the elements related to Systems and Equipment Malfunctions by performing all the tasks in accordance with the ERAU Standardization Manual and the ERAU SOPA to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.LESSON 23 - FLIGHT (DUAL) 
+This lesson will be graded at +50% ACS. Student demonstrates an understanding of the elements related to Systems and Equipment Malfunctions by performing all the tasks in accordance with the Pro Standards Standardization Manual and the Pro Standards SOPA to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.Emergencies
+Stage 1 Lesson 26
+Dual Flight
+Lesson Time 2.0
 
 Objectives
 The student will practice various Systems and Equipment Malfunctions in the aircraft while also generating an understanding of the aircraft’s operation and handling during emergency operations. The instructor will additionally provide the student with a variety of scenarios to develop Aeronautical Decision Making during malfunctions and emergencies.
@@ -790,8 +881,11 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-This lesson will be graded at +50% ACS. Student demonstrates an understanding of the elements related to Systems and Equipment Malfunctions by performing all the tasks in accordance with the ERAU Standardization Manual and the ERAU SOPA to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
-LESSON 24 - GROUND BRIEFING (GND) 
+This lesson will be graded at +50% ACS. Student demonstrates an understanding of the elements related to Systems and Equipment Malfunctions by performing all the tasks in accordance with the Pro Standards Standardization Manual and the Pro Standards SOPA to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
+Emergencies
+Stage 1 Lesson 27
+Ground Lesson
+Lesson Time 2.0
 
 Objectives
 The student will demonstrate the required knowledge to conduct solo flight through an oral review with the instructor and the successful completion of a Pre-Solo Written Exam corrected to 100%.
@@ -812,7 +906,11 @@ Notes: 2.0 Hrs. Ground Briefing (Suggested)
 Completion Standard
 This lesson will be graded at +50% ACS. The student completes a Pre-Solo Written Exam that is corrected to 100% and demonstrates adequate knowledge of all required tasks to the standard prescribed in the Private Pilot Airplane Airman Certification Standards
 
-LESSON 25 - FLIGHT (DUAL) 
+Emergencies
+Stage 1 Lesson 27
+Dual Flight
+Lesson Time 2.0
+
 Objectives
 The student will demonstrate the required aeronautical knowledge and skill to safely operate the aircraft in solo flight operations by performing all the required tasks.
 
@@ -856,18 +954,59 @@ Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 Optional Tasks should be completed if the student did not receive at least a “G” on these Tasks during the completion of lesson 11 or Lesson 18.
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student successfully demonstrates the knowledge and skill to operate the aircraft safely in solo operations by performing all tasks in accordance with the ERAU Standardization Manual and meeting the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
-SECTION 5 
-STAGE 1 CHECK 
+This lesson will be graded at +50% ACS. The student successfully demonstrates the knowledge and skill to operate the aircraft safely in solo operations by performing all tasks in accordance with the Pro Standards Standardization Manual and meeting the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
+Solo Validation
+
+Solo Validation
+Stage 1 Lesson 28
+Ground Lesson
+Lesson Time 2.0
+
+STAGE ONE REVIEW
+
 Objectives
 
 To determine through oral testing and a flight check that the student can demonstrates satisfactory proficiency of aeronautical knowledge and skill to competently and safely operate an airplane in solo flight in accordance with 14 CFR Part 141 Appendix B(6)(b).
 
-Suggested Completion Time
-Ground Briefing:0.9 hrs.
-Dual Flight Training:1.4 hrs.
+TASKS
 
-LESSON 26 - FLIGHT STAGE CHECK (FLT SC) 
+ Stage 1 Knowledge Areas
+
+
+Objectives
+To teach the student the aeronautical knowledge and skill of takeoffs and landings, including normal and crosswind takeoffs and Climbs, normal approaches and landings, go-around/rejected landings and forward slips to landings. Also, the student’s knowledge and experience in Traffic Patterns will be further developed.
+
+Suggested Completion Time
+Ground Briefing: 8.1 hrs.
+Dual Simulator Training: 2.0 hrs.
+Dual Flight Training: 6.8 hrs.
+Solo Validation
+Stage One Lesson 29
+Stage One Exam
+Lesson Time 2.0
+
+STAGE ONE EXAM
+
+Objectives
+
+To determine through oral testing and a flight check that the student can demonstrates satisfactory proficiency of aeronautical knowledge and skill to competently and safely operate an airplane in solo flight in accordance with 14 CFR Part 141 Appendix B(6)(b).
+
+TASKS
+
+Stage One Exam
+
+
+Objectives
+To teach the student the aeronautical knowledge and skill of takeoffs and landings, including normal and crosswind takeoffs and Climbs, normal approaches and landings, go-around/rejected landings and forward slips to landings. Also, the student’s knowledge and experience in Traffic Patterns will be further developed.
+
+Suggested Completion Time
+Ground Briefing: 8.1 hrs.
+Dual Simulator Training: 2.0 hrs.
+Dual Flight Training: 6.8 hrs.
+Solo Validation
+Stage 1 Lesson 30
+Solo Validation
+Lesson Time 2.0
 
 Objectives
 The student will demonstrate the required proficiency of aeronautical knowledge and skill to safely operate the aircraft in solo flight operations by performing all the required tasks.
@@ -899,7 +1038,7 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.9 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student completes each checklist, from memory, with a maximum of one missed item per checklist, with no missed items allowed during checklist verification, additionally the student successfully demonstrates, through oral questioning and a flight check, the knowledge and skill to operate the aircraft safely in solo operations by performing all tasks in accordance with the ERAU Standardization Manual and meeting the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
+This lesson will be graded at +50% ACS. The student completes each checklist, from memory, with a maximum of one missed item per checklist, with no missed items allowed during checklist verification, additionally the student successfully demonstrates, through oral questioning and a flight check, the knowledge and skill to operate the aircraft safely in solo operations by performing all tasks in accordance with the Pro Standards Standardization Manual and meeting the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
 STAGE 2 
 
 OBJECTIVE:
@@ -948,7 +1087,7 @@ Notes: 1.4 Hrs. Dual Flight Training, 0.8 hrs. Solo Flight Training, and 0.5 hrs
 The flight instructor who conducts this lesson must verify prior to the start of this lesson that the student has in their possession valid student pilot certificate and the student has received the proper endorsements that authorize solo flight in accordance with 14CFR Part 61.87(n), 61.87(p), and 14CFR Part 141 Appendix B(6)(b).
 
 Completion Standard
-Student completes an initial solo flight in the traffic pattern in accordance with the limitations of the ERAU FOM.
+Student completes an initial solo flight in the traffic pattern in accordance with the limitations of the Pro Standards FOM.
 
 
 
@@ -1011,7 +1150,7 @@ Radio Communications, Navigation Systems/Facilities, and Radar Services
 Notes: 2.0 Hrs. Ground Briefing (Suggested)
 
 Completion Standard
-The student demonstrates an understanding of the aeronautical knowledge required by the Private Pilot ACS to operate the aircraft safely during inadvertent VFR flight into IMC conditions in accordance with the Airplane Flying Handbook and the ERAU Standardization Manual. Additionally, the student demonstrates an understanding of the aeronautical knowledge relating to Human Factors as required by the Private Pilot-Airplane ACS with reference to the PHAK.
+The student demonstrates an understanding of the aeronautical knowledge required by the Private Pilot ACS to operate the aircraft safely during inadvertent VFR flight into IMC conditions in accordance with the Airplane Flying Handbook and the Pro Standards Standardization Manual. Additionally, the student demonstrates an understanding of the aeronautical knowledge relating to Human Factors as required by the Private Pilot-Airplane ACS with reference to the PHAK.
 
 
 
@@ -1055,7 +1194,7 @@ After Landing, Parking and Securing
 Notes: 1.4 hrs. Dual Simulator Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-The student demonstrates the required aeronautical knowledge and skill to fly the aircraft during inadvertent VFR flight into IMC by performing all the tasks in accordance with the ERAU Standardization Manual to the standards prescribed by the Private Pilot-Airplane ACS.
+The student demonstrates the required aeronautical knowledge and skill to fly the aircraft during inadvertent VFR flight into IMC by performing all the tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed by the Private Pilot-Airplane ACS.
 LESSON 30 - FLIGHT (DUAL) 
 
 Objectives
@@ -1088,7 +1227,7 @@ Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 This lesson includes 1.0 hour of instrument training to be credited towards the requirements of 14 CFR Part 141 Appendix B Section 4 (b) (1) (iii): three hours of instrument training in a single-engine airplane.
 
 Completion Standard
-The student demonstrates the required aeronautical knowledge and skill to fly the aircraft during inadvertent VFR flight into IMC by performing all the tasks in accordance with the ERAU Standardization Manual to the standards prescribed by the Private Pilot Airplane Airman Certification Standards.
+The student demonstrates the required aeronautical knowledge and skill to fly the aircraft during inadvertent VFR flight into IMC by performing all the tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed by the Private Pilot Airplane Airman Certification Standards.
 SECTION 8 
 PERFORMANCE TAKEOFFS, LANDINGS, AND EMERGENCY PROCEDURES 
 
@@ -1106,7 +1245,7 @@ Dual Flight Training: 4.2 hrs.
 LESSON 31 - GROUND BRIEFING (GND) 
 
 Objectives
-The instructor will introduce the aeronautical knowledge and skills required of the student to perform Performance Takeoffs and Performance Landings, with reference to the ERAU Standardization Manual, the applicable POH, and the AFH. Additionally, the instructor and student will review the aeronautical knowledge requirements related to Airworthiness Requirements, Performance and Limitations, and Operations of Systems, emergency operations and Systems and Equipment Malfunctions with reference to the applicable POH, the AFH, the PHAK, and the ERAU SOPA.
+The instructor will introduce the aeronautical knowledge and skills required of the student to perform Performance Takeoffs and Performance Landings, with reference to the Pro Standards Standardization Manual, the applicable POH, and the AFH. Additionally, the instructor and student will review the aeronautical knowledge requirements related to Airworthiness Requirements, Performance and Limitations, and Operations of Systems, emergency operations and Systems and Equipment Malfunctions with reference to the applicable POH, the AFH, the PHAK, and the Pro Standards SOPA.
 
 TASK
 Airworthiness Requirements
@@ -1127,11 +1266,11 @@ Emergency Equipment and Survival Gear
 Notes: 2.0 Hrs. Ground Briefing (Suggested)
 
 Completion Standard
-The student demonstrates an understanding of all tasks in accordance with the requirements of the Private Pilot Airplane Airman Certification Standards as well as all procedures outlined in the ERAU Standardization Manual.
+The student demonstrates an understanding of all tasks in accordance with the requirements of the Private Pilot Airplane Airman Certification Standards as well as all procedures outlined in the Pro Standards Standardization Manual.
 LESSON 32 - FLIGHT (DUAL) 
 
 Objectives
-The student will practice the skills required to perform Performance Takeoffs and Landings in accordance with the ERAU Standardization Manual and the applicable POH.
+The student will practice the skills required to perform Performance Takeoffs and Landings in accordance with the Pro Standards Standardization Manual and the applicable POH.
 
 TASK
 Safety of Flight
@@ -1156,12 +1295,12 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student demonstrates the knowledge and skills required for Performance Takeoffs and Landings by performing all required tasks to the standards prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the ERAU Standardization Manual and the applicable POH.
+This lesson will be graded at +50% ACS. The student demonstrates the knowledge and skills required for Performance Takeoffs and Landings by performing all required tasks to the standards prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the Pro Standards Standardization Manual and the applicable POH.
 
 LESSON 33 - FLIGHT (DUAL) 
 
 Objectives
-The student will practice the skills required to perform Performance Takeoffs and Landings in accordance with the ERAU Standardization Manual and the applicable POH.
+The student will practice the skills required to perform Performance Takeoffs and Landings in accordance with the Pro Standards Standardization Manual and the applicable POH.
 
 TASK
 Safety of Flight
@@ -1186,9 +1325,9 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-The student demonstrates the knowledge and skills required for Performance Takeoffs and Landings by performing all required tasks to the standards prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the ERAU Standardization Manual and the applicable POH.
+The student demonstrates the knowledge and skills required for Performance Takeoffs and Landings by performing all required tasks to the standards prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the Pro Standards Standardization Manual and the applicable POH.
 LESSON 34 - SIMULATOR (SIM) Objectives
-The student will review the skills and procedures to operate the aircraft during various Systems and Equipment Malfunctions and Emergencies. The student will additionally review their knowledge of the applicable checklist flows and procedures in accordance with the ERAU SOPA and ERAU Standardization Manual.
+The student will review the skills and procedures to operate the aircraft during various Systems and Equipment Malfunctions and Emergencies. The student will additionally review their knowledge of the applicable checklist flows and procedures in accordance with the Pro Standards SOPA and Pro Standards Standardization Manual.
 
 TASK
 Emergency Descent
@@ -1203,12 +1342,12 @@ Pitot Static System Malfunctions and Failures
 Notes: 1.4 hrs. Dual Simulator Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-The student demonstrates the required knowledge, skills, and Aeronautical Decision Making by performing all the tasks to the standards prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the ERAU Standardization Manual and ERAU SOPA.
+The student demonstrates the required knowledge, skills, and Aeronautical Decision Making by performing all the tasks to the standards prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the Pro Standards Standardization Manual and Pro Standards SOPA.
 
 LESSON 35 - FLIGHT (DUAL) 
 
 Objectives
-The student will review the skills and procedures to operate the aircraft during various Systems and Equipment Malfunctions, Emergencies, and inadvertent VFR flight into IMC. The student will also practice the skills required for Performance Takeoffs and Landings. The student will additionally review their knowledge of the applicable checklist flows and procedures in accordance with the ERAU SOPA and ERAU Standardization manual.
+The student will review the skills and procedures to operate the aircraft during various Systems and Equipment Malfunctions, Emergencies, and inadvertent VFR flight into IMC. The student will also practice the skills required for Performance Takeoffs and Landings. The student will additionally review their knowledge of the applicable checklist flows and procedures in accordance with the Pro Standards SOPA and Pro Standards Standardization manual.
 
 TASK
 Safety of Flight
@@ -1240,7 +1379,7 @@ Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 This lesson includes 0.4 hours of instrument training to be credited towards the requirements of 14 CFR Part 141 Appendix B Section 4 (b) (1) (iii): three hours of instrument training in a single-engine airplane.
 
 Completion Standard
-The student demonstrates the required knowledge, skills, and Aeronautical Decision Making by performing all of the tasks to the standards prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the ERAU Standardization Manual, ERAU SOPA, and the applicable POH.
+The student demonstrates the required knowledge, skills, and Aeronautical Decision Making by performing all of the tasks to the standards prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the Pro Standards Standardization Manual, Pro Standards SOPA, and the applicable POH.
 
 
 
@@ -1256,13 +1395,42 @@ Ground Briefing: 2.5 hrs.
 Dual Flight Training: 1.4 hrs.
 Solo Flight Training 2.0 hrs.
 
+LESSON 4 OPERATION OF SYSTEMS
+OBJECTIVES: Exhibit knowledge of the principles of powerplants and aircraft
+systems.
+UNIT 8 AIRCRAFT SYSTEMS
+DISCUSS:
+1. Powerplant and Propeller
+2. Ignition System
+3. Engine Cooling Systems
+4. Exhaust Systems
+5. Starting System
+6. Combustion
+7. Fuel and Oil Systems
+8. Electrical System
+9. Hydraulic Systems
+10. Landing Gear
+11. Environmental
+12. Oxygen Systems
+13. Anti-ice and Deice Systems
+UNIT 9 FLIGHT INSTRUMENTS
+DISCUSS:
+1. Pitot-Static Flight Instruments
+2. Gyroscopic Flight Instruments
+3. Compass Systems
+UNIT 10 G1000
+DISCUSS:
+1. G1000 System Overview
+2. Normal Operations
+3. Emergency Procedures
+
 LESSON 36 - GROUND BRIEFING (GND) 
 
 Objectives
-The instructor and student will review the aeronautical knowledge required to conduct solo flights in the local practice areas and in the Traffic Pattern. This will include a review of the applicable sections of the ERAU FOM and Safety of Flight items relating to solo flight.
+The instructor and student will review the aeronautical knowledge required to conduct solo flights in the local practice areas and in the Traffic Pattern. This will include a review of the applicable sections of the Pro Standards FOM and Safety of Flight items relating to solo flight.
 
 TASK
-ERAU Flight Operations Manual
+Pro Standards Flight Operations Manual
 Local Operations
 Practice Area Review
 Safety of Flight
@@ -1274,7 +1442,7 @@ Issue Stage Exam
 Notes: 2.0 Hrs. Ground Briefing (Suggested)
 
 Completion Standard
-The student demonstrates the required knowledge required to safely operate the aircraft during solo operations in the local practice areas and in the Traffic Pattern with reference to the ERAU FOM and the Private Pilot Airplane Airman Certification Standards.
+The student demonstrates the required knowledge required to safely operate the aircraft during solo operations in the local practice areas and in the Traffic Pattern with reference to the Pro Standards FOM and the Private Pilot Airplane Airman Certification Standards.
 
 
 
@@ -1313,7 +1481,7 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-The student demonstrates the required knowledge, skills, and Aeronautical Decision Making required to safely operate the aircraft during solo operations in the local practice areas and in the Traffic Pattern by performing all tasks in accordance with the ERAU Standardization Manual to the standards prescribed by the Private Pilot Airplane Airman Certification Standards.
+The student demonstrates the required knowledge, skills, and Aeronautical Decision Making required to safely operate the aircraft during solo operations in the local practice areas and in the Traffic Pattern by performing all tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed by the Private Pilot Airplane Airman Certification Standards.
 
 
 
@@ -1352,9 +1520,26 @@ Notes: 1.0 Hrs. Solo Flight Training (Suggested)
 This lesson may be completed out of lesson order after lesson 37 is completed but must be completed before lesson 46 is attempted.
 
 Completion Standard
-The student successfully completes a 1.0-hour solo flight in the local practice areas in accordance with the ERAU FOM, ERAU Standardization Manual, and ERAU SOPA.
+The student successfully completes a 1.0-hour solo flight in the local practice areas in accordance with the Pro Standards FOM, Pro Standards Standardization Manual, and Pro Standards SOPA.
 
-LESSON 39 - FLIGHT (SOLO) 
+LESSON 7 HUMAN FACTORS
+OBJECTIVES: Exhibit knowledge of Aeromedical Factors and aeronautical
+decision making and judgment.
+UNIT 16 AEROMEDICAL FACTORS
+DISCUSS:
+1. Obtaining a Medical Certificate
+2. Health and Physiological Factors
+3. Vision in Flight
+4. Illusions and Spatial Disorientation
+UNIT 17 AERONAUTICAL DECISION MAKING
+DISCUSS:
+1. Crew Resource Management
+2. Single-Pilot Resource Management
+3. Hazard and Risk
+4. The Decision Making Process
+5. Situational Awareness
+6. Risk Management
+7. Human BehaviorLESSON 39 - FLIGHT (SOLO) 
 
 Objectives
 The student will complete a solo flight in the Traffic Pattern practicing takeoffs and landings. This will help the student to develop confidence prior to Solo Cross-Country operations later in the flight course.
@@ -1387,7 +1572,7 @@ Notes: 1.0 Hrs. Solo Flight Training (Suggested)
 This lesson may be completed out of lesson order after lesson 37 is completed but must be completed before lesson 46 is attempted.
 
 Completion Standard
-The student successfully completes a 1.0-hour solo flight in the Traffic Pattern in accordance with the ERAU FOM, ERAU Standardization Manual, and ERAU SOPA.SECTION 10 
+The student successfully completes a 1.0-hour solo flight in the Traffic Pattern in accordance with the Pro Standards FOM, Pro Standards Standardization Manual, and Pro Standards SOPA.SECTION 10 
 CROSS-COUNTRY AND NIGHT TRAINING 
 Objective
 To teach the student the aeronautical knowledge and skill associated with Cross-Country and Night Preparation, including performance and limitations, weather information, cross-country flight planning, national airspace system, pilotage and dead reckoning, diversions, lost procedures, Night Preparation and night preparation.
@@ -1396,10 +1581,37 @@ Suggested Completion Time
 Ground Briefing: 6.9 hrs.
 Dual Flight Training: 8.0 hrs.
 Solo Flight Training 3.0 hrs.
-LESSON 40 - GROUND BRIEFING (GND) 
+LESSON 8 AIRPORT OPERATIONS
+OBJECTIVES: Exhibits knowledge of safe and efficient operation of aircraft,
+including collision avoidance, and recognition and avoidance of wake
+turbulence; runway incursion avoidance and land and hold short operations;
+radio communications procedures; radar and ATC services and preflight action
+including how to obtain information on runway lengths at airports of intended
+use.
+UNIT 18 AIRPORT OPERATIONS
+DISCUSS:
+1. Towered and Non-Towered Airports
+2. Sources for Airport Data
+3. Airport Markings and Signs
+4. Airport Lighting
+5. Wind Direction Indicators
+6. Traffic Patterns
+UNIT 19 RADIO COMMUNICATIONS
+DISCUSS:
+1. Phraseology
+2. Phonetic Alphabet
+3. Air Traffic Control Services
+4. Lost Communication Procedures
+UNIT 20 SAFE AND EFFICIENT OPERATION OF AIRCRAFT
+DISCUSS:
+1. Collision Avoidance
+2. Wake Turbulence Avoidance
+3. Runway Incursion Avoidance
+4. Land and Hold Short Operations (LAHSO)
+5. Controlled Flight Into Terrain (CFIT)LESSON 40 - GROUND BRIEFING (GND) 
 
 Objectives
-The instructor will introduce the aeronautical knowledge and skills required to conduct Cross-Country planning, Airport Operations in accordance with the ERAU Standardization Manual with reference to the PHAK and the applicable POH.
+The instructor will introduce the aeronautical knowledge and skills required to conduct Cross-Country planning, Airport Operations in accordance with the Pro Standards Standardization Manual with reference to the PHAK and the applicable POH.
 
 TASK
 Aviation Security
@@ -1415,7 +1627,7 @@ Notes: 2.0 Hrs. Ground Briefing (Suggested)
 Airport Operations includes Communications, Light Signals, and Runway Lighting Systems and Traffic Patterns for both non-towered and towered airports.
 
 Completion Standard
-The student demonstrates an understanding of the skills required to successfully plan Cross-Country flights and conduct Cross-Country Operations in accordance with the ERAU Standardization Manual, the PHAK, and the applicable POH to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.
+The student demonstrates an understanding of the skills required to successfully plan Cross-Country flights and conduct Cross-Country Operations in accordance with the Pro Standards Standardization Manual, the PHAK, and the applicable POH to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.
 LESSON 11 CROSS COUNTRY FLIGHT PLANNING
 OBJECTIVES: Exhibits knowledge of aeronautical charts for VFR navigation
 using pilotage, dead reckoning, and navigation systems; and preflight action
@@ -1489,9 +1701,9 @@ Notes: 2.0 Hrs. Dual Flight Training and 0.8 hrs. Pre and Post Briefing (Suggest
 This lesson includes 0.4 hours of instrument training to be credited towards the requirements of 14 CFR Part 141 Appendix B Section 4 (b) (1) (iii): three hours of instrument training in a single-engine airplane.
 
 Completion Standard
-Student demonstrates an understanding of the requirements and procedures to conduct Cross-Country operations by performing all tasks in accordance with the ERAU Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.
+Student demonstrates an understanding of the requirements and procedures to conduct Cross-Country operations by performing all tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.
 LESSON 42 - GROUND BRIEFING (GND) Objectives
-The student will further review the techniques of Cross-Country operations while additionally learning how to conduct Diversions. The instructor will also introduce the required knowledge and skills for Night Preparation and conducting night operations in accordance with the ERAU Standardization Manual and the PHAK.
+The student will further review the techniques of Cross-Country operations while additionally learning how to conduct Diversions. The instructor will also introduce the required knowledge and skills for Night Preparation and conducting night operations in accordance with the Pro Standards Standardization Manual and the PHAK.
 
 TASK
 Safety of Flight
@@ -1510,7 +1722,7 @@ Night Preparation
 Notes: 2.0 Hrs. Ground Briefing (Suggested)
 
 Completion Standard
-Student demonstrates an understanding of the aeronautical knowledge present in the AFH, PHAK, and ERAU Standardization Manual required for both Night Operations and Cross-Country Flight Planning and operations.
+Student demonstrates an understanding of the aeronautical knowledge present in the AFH, PHAK, and Pro Standards Standardization Manual required for both Night Operations and Cross-Country Flight Planning and operations.
 
 LESSON 12 ADVANCED NAVIGATION
 OBJECTIVE: Exhibit knowledge of navigation systems, lost procedures and
@@ -1636,7 +1848,7 @@ Notes: 3.0 Hrs. Dual Flight Training and 0.8 hrs. Pre and Post Briefing (Suggest
 - This dual cross-country flight must satisfy the requirements of 14 CFR Part 141 Appendix B Section 4 (b) (1) (i): Three hours of cross-country flight training in a single-engine airplane.	
 
 Completion Standard	
-The student demonstrates the required knowledge and skills to safely operate the aircraft during Solo Cross-Country operations by performing all the tasks in accordance with the ERAU FOM, ERAU Standardization Manual, and ERAU SOPA to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.LESSON 46 - SOLO CROSS-COUNTRY FLIGHT (SOLO XC) Objectives	
+The student demonstrates the required knowledge and skills to safely operate the aircraft during Solo Cross-Country operations by performing all the tasks in accordance with the Pro Standards FOM, Pro Standards Standardization Manual, and Pro Standards SOPA to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.LESSON 46 - SOLO CROSS-COUNTRY FLIGHT (SOLO XC) Objectives	
 
 The student will complete a Solo Cross-Country that meets the requirements of 14 CFR Part 141 Appendix B Section 5(a): A Solo Cross-Country flight of at least 100 nautical miles total distance, with full-stop landings at a minimum of three points, and one segment of the flight consisting of a straight-line distance of at least 50 nautical miles between the takeoff and landings locations.	
 
@@ -1743,7 +1955,7 @@ Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 - This lesson includes 0.4 hours of instrument training to be credited towards the requirements of 14 CFR Part 141 Appendix B Section 4 (b) (1) (iii): three hours of instrument training in a single-engine airplane."	
 
 Completion Standard	
-Student demonstrates the required aeronautical skills required by completing all the tasks to the standard prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the ERAU Standardization Manual and ERAU SOPA.	
+Student demonstrates the required aeronautical skills required by completing all the tasks to the standard prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the Pro Standards Standardization Manual and Pro Standards SOPA.	
 LESSON 49 - FLIGHT (DUAL) Objectives	
 
 The instructor will review and evaluate the student’s aeronautical skills to determine that he/she is adequately prepared for the Stage 2 Stage Check and End-Of-Course Evaluations.	
@@ -1790,7 +2002,7 @@ Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 - This lesson shall be used as a final review prior to the student’s stage check. Tasks in this lesson may be omitted at the discretion of the instructor pilot."	
 
 Completion Standard	
-Student demonstrates the required aeronautical skills required by completing all the tasks to the standard prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the ERAU Standardization Manual and ERAU SOPA.	
+Student demonstrates the required aeronautical skills required by completing all the tasks to the standard prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the Pro Standards Standardization Manual and Pro Standards SOPA.	
 SECTION 12 
 STAGE 2 CHECK Objective		
 
@@ -1905,7 +2117,7 @@ Notes: 1.0 hrs. Dual Simulator Training and 0.5 hrs. Pre and Post Briefing (Sugg
 - This Lesson should be completed in an airplane if the IP determines it is appropriate based on the Tasks required to be reviewed. The Instructor will document and grade the Tasks that are reviewed in the students training record."	
 
 Completion Standard	
-Student demonstrates the required aeronautical skills required by completing all of the tasks to the standard prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the ERAU Standardization Manual and ERAU SOPA.	
+Student demonstrates the required aeronautical skills required by completing all of the tasks to the standard prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the Pro Standards Standardization Manual and Pro Standards SOPA.	
 SECTION 14 
 PRIVATE PILOT AIRPLANE SINGLE-ENGINE END-OF-COURSE TEST Objective		
 To determine, through an End-of-Course test consisting of both an oral and flight test, that the student has the necessary aeronautical knowledge and skill to safely and competently conduct flight operations as an FAA certificated Private Pilot.		
@@ -1976,236 +2188,3 @@ Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 - This lesson includes 0.2 hours of instrument training to be credited towards the requirements of 14 CFR Part 141 Appendix B Section 4 (b) (1) (iii): three hours of instrument training in a single-engine airplane."	
 
 Completion Standard: The student demonstrates the required aeronautical skills to safely conduct flight operations as an FAA certificated Private Pilot by meeting the standards prescribed in the Private Pilot Airplane Airman Certification Standards on all tasks.	
-LESSON 2 FUNDAMENTALS OF FLIGHT
-OBJECTIVES: Exhibit knowledge of the principles of aerodynamics, and stall
-awareness, spin entry, spins, and spin recovery techniques.
-UNIT 2 AIRCRAFT STRUCTURE
-DISCUSS:
-1. Lift and Basic Aerodynamics
-2. Major Components and Subcomponents
-3. Types of Aircraft Construction
-UNIT 3 PRINCIPLES OF FLIGHT
-DISCUSS:
-1. Structure of the Atmosphere
-2. Theories in the Production of Lift
-3. Airfoil Design
-UNIT 4 AERODYNAMICS OF FLIGHT
-DISCUSS:
-1. Forces Acting on the Aircraft
-2. Wingtip Vortices and Ground Effect
-3. Axes of an Aircraft
-4. Aircraft Design Characteristics
-5. Aerodynamic Forces in Flight Maneuvers
-6. Stalls and Spins
-7. Stall/Spin Awareness
-8. Propeller Principles
-9. Load Factors
-UNIT 5 FLIGHT CONTROLS
-DISCUSS:
-1. Primary Flight Controls
-2. Secondary Flight Controls
-3. Coordinated Flight
-4. Adverse Yaw
-
-LESSON 3 PERFORMANCE AND LIMITATIONS
-OBJECTIVES: Exhibit knowledge of weight and balance computations,
-aircraft performance, including effects of density altitude on takeoff and climb
-performance, and preflight action including data on takeoff and landing
-distances.
-UNIT 6 WEIGHT AND BALANCE
-DISCUSS:
-1. Weight and Balance Computations
-2. Center of Gravity
-3. Moment and Moment Arm
-UNIT 7 AIRCRAFT PERFORMANCE
-DISCUSS:
-1. Importance of Performance Data
-2. Pressure Altitude
-3. Density Altitude
-4. Takeoff and Landing Performance
-5. Performance Speeds and Charts
-
-
-
-
-
-
-
-
-
-
-
-
-LESSON 4 OPERATION OF SYSTEMS
-OBJECTIVES: Exhibit knowledge of the principles of powerplants and aircraft
-systems.
-UNIT 8 AIRCRAFT SYSTEMS
-DISCUSS:
-1. Powerplant and Propeller
-2. Ignition System
-3. Engine Cooling Systems
-4. Exhaust Systems
-5. Starting System
-6. Combustion
-7. Fuel and Oil Systems
-8. Electrical System
-9. Hydraulic Systems
-10. Landing Gear
-11. Environmental
-12. Oxygen Systems
-13. Anti-ice and Deice Systems
-UNIT 9 FLIGHT INSTRUMENTS
-DISCUSS:
-1. Pitot-Static Flight Instruments
-2. Gyroscopic Flight Instruments
-3. Compass Systems
-UNIT 10 G1000
-DISCUSS:
-1. G1000 System Overview
-2. Normal Operations
-3. Emergency Procedures
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-LESSON 5 LEGAL REQUIREMENTS FOR FLIGHT
-OBJECTIVES: Exhibit knowledge of applicable federal aviation regulations for
-private pilot privileges, limitations, and flight operations; accident reporting
-requirements of the National Transportation Safety Board; and applicable
-subjects of the “Aeronautical Information Manual” and appropriate FAA
-advisory circulars.
-UNIT 11 REGULATORY GUIDANCE
-DISCUSS:
-1. Federal Aviation Regulations (14 CFRs)
-2. 14 CFR Part 1 – Definitions and Abbreviations
-3. 14 CFR Part 43 – Maintenance, Preventive Maintenance,
-Rebuilding and Alteration
-4. 14 CFR Part 61 – Certification: Pilots, Flight Instructors, and
-Ground Instructors
-5. 14 CFR Part 91 – General Operating and Flight Rules
-6. Aeronautical Information Manual
-7. Advisory Circulars
-8. NTSB Part 830
-UNIT 12 CERTIFICATES AND DOCUMENTS
-DISCUSS:
-1. Airplane Flight Manuals
-2. Aircraft Documents
-UNIT 13 AIRWORTHINESS REQUIREMENTS
-DISCUSS:
-1. Aircraft Inspections
-2. Preventative Maintenance
-3. Minimum Equipment Lists
-4. Operations with Inoperative Equipment
-5. Aircraft Owner/Operator Responsibilities
-6. Airworthiness DirectivesLESSON 6 REVIEW AND STAGE 1 EXAM
-OBJECTIVE: Exhibits required aeronautical knowledge presented in Stage 1.
-UNIT 14 STAGE 1 REVIEW
-REVIEW:
-1. Stage 1 Knowledge Areas
-UNIT 15 STAGE 1 EXAM
-1. Stage 1 Exam
-2. CritiqueLESSON 7 HUMAN FACTORS
-OBJECTIVES: Exhibit knowledge of Aeromedical Factors and aeronautical
-decision making and judgment.
-UNIT 16 AEROMEDICAL FACTORS
-DISCUSS:
-1. Obtaining a Medical Certificate
-2. Health and Physiological Factors
-3. Vision in Flight
-4. Illusions and Spatial Disorientation
-UNIT 17 AERONAUTICAL DECISION MAKING
-DISCUSS:
-1. Crew Resource Management
-2. Single-Pilot Resource Management
-3. Hazard and Risk
-4. The Decision Making Process
-5. Situational Awareness
-6. Risk Management
-7. Human BehaviorLESSON 8 AIRPORT OPERATIONS
-OBJECTIVES: Exhibits knowledge of safe and efficient operation of aircraft,
-including collision avoidance, and recognition and avoidance of wake
-turbulence; runway incursion avoidance and land and hold short operations;
-radio communications procedures; radar and ATC services and preflight action
-including how to obtain information on runway lengths at airports of intended
-use.
-UNIT 18 AIRPORT OPERATIONS
-DISCUSS:
-1. Towered and Non-Towered Airports
-2. Sources for Airport Data
-3. Airport Markings and Signs
-4. Airport Lighting
-5. Wind Direction Indicators
-6. Traffic Patterns
-UNIT 19 RADIO COMMUNICATIONS
-DISCUSS:
-1. Phraseology
-2. Phonetic Alphabet
-3. Air Traffic Control Services
-4. Lost Communication Procedures
-UNIT 20 SAFE AND EFFICIENT OPERATION OF AIRCRAFT
-DISCUSS:
-1. Collision Avoidance
-2. Wake Turbulence Avoidance
-3. Runway Incursion Avoidance
-4. Land and Hold Short Operations (LAHSO)
-5. Controlled Flight Into Terrain (CFIT)LESSON 9 NATIONAL AIRSPACE SYSTEM
-OBJECTIVE: Exhibits knowledge of the National Airspace System.
-UNIT 21 CONTROLLED AND UNCONTROLLED AIRSPACE
-DISCUSS:
-1. Categories and Types of Airspace
-2. Controlled Airspace
-3. Uncontrolled Airspace
-4. Airspace and VFR Weather Minimums
-5. Special VFR
-UNIT 22 SPECIAL USE AND OTHER AIRSPACE
-DISCUSS:
-1. Special-Use Airspace
-2. Special Airspace Areas
-3. Other Airspace Areas
-UNIT 23 AIRSPACE AND VFR WEATHER MINIMUM LABLESSON 9 NATIONAL AIRSPACE SYSTEM
-OBJECTIVE: Exhibits knowledge of the National Airspace System.
-UNIT 21 CONTROLLED AND UNCONTROLLED AIRSPACE
-DISCUSS:
-1. Categories and Types of Airspace
-2. Controlled Airspace
-3. Uncontrolled Airspace
-4. Airspace and VFR Weather Minimums
-5. Special VFR
-UNIT 22 SPECIAL USE AND OTHER AIRSPACE
-DISCUSS:
-1. Special-Use Airspace
-2. Special Airspace Areas
-3. Other Airspace Areas
-UNIT 23 AIRSPACE AND VFR WEATHER MINIMUM LAB
-
-
-
-
-
-
-
-
-
-
-
