@@ -23,10 +23,9 @@ Private Pilot
 Single Engine Airplane
 Hursa Corp x Lucky Aviation 2021
 
-
-
-
 Stage One
+
+Ground Lessons
 
 Introduction to Flight
 
@@ -38,6 +37,8 @@ Lesson Time 1.0
 Objectives
 Introduce the student flight.
 
+SBT
+Plan a costal sight-seeing flight choosing a land mark to orbit.
 
 Tasks
 Pre Flight
@@ -56,21 +57,23 @@ Completion Standards
 The student has been introduced to and completed the tasks of the lesson.
 
 
+
+
 Induction to Flight
 Stage 1 Lesson 2
 Ground Lesson
 Lesson Time 2.0
 
+Induction to Flight
+
 Objectives
 This lesson will serve as the student’s initial ground briefing on Fundamentals of Flight, Pro Standards Flight Operations, Pro Standards checklists, and Pro Standards Procedures. Additionally, the instructor will introduce the aeronautical knowledge elements required prior to initial solo referencing applicable POH, the AFH, and the PHAK.
 
+SBT
+>>
 
 Tasks
 Introduction to Pro Standards Training Program
-	Flight Operations
-	Publications
-	Flight Operations Manual (FOM)
-	Checklist Philosophy (SOPA)
 Course Overview
 Required Course Materials
 Course Policies
@@ -91,10 +94,7 @@ Climbing Turns (Visual Reference)
 Descending Turns (Visual Reference)
 
 Completion Standards
-The student demonstrates an understanding of the knowledge elements required for Fundamentals of Flight, Safety of Flight Items, and the required aeronautical knowledge elements relating to Operation of Systems and National Airspace system. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.
-
-
-Fundamentals of Flight
+The student demonstrates an understanding of the knowledge elements required for Fundamentals of Flight, Safety of Flight Items, and the required aeronautical knowledge elements relating to Operation of Systems and National Airspace system. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.Fundamentals of Flight
 
 Fundamentals of Flight
 Stage 1 Lesson 3
@@ -102,7 +102,10 @@ Procedures Training
 Lesson Time 1.0
 
 Objectives
-The instructor will introduce the student to the required callouts, flows, and checklist Items in accordance with the Pro Standards SOPA. The instructor’s primary emphasis will be to facilitate the student’s understanding of the checklists and flow procedures. The student will not be expected to perform the flows in accordance with the Pro Standards Checklist Philosophy in this lesson.
+The instructor will introduce the student to the required callouts, flows, and checklist Items in accordance with the Pro Standards’ SOPA. The instructor’s primary emphasis will be to facilitate the student’s understanding of the checklists and flow procedures. The student will not be expected to perform the flows in accordance with the Pro Standards Checklist Philosophy in this lesson.
+
+SBT
+>>
 
 Tasks
 Pro Standards Checklist Philosophy (SOPA)
@@ -119,7 +122,7 @@ Takeoff (SOPA)
 Climb (SOPA)
 Cruise (SOPA)
 Pre-Maneuver Flow (SOPA)
-In-Range (SOPA)
+Decent (SOPA)
 After Landing (SOPA)
 Shutdown/Secure (SOPA)
 Flight Deck Management
@@ -132,12 +135,13 @@ Stage 1 Lesson 4
 Dual Flight
 Lesson Time 2.0
 
-
 Objectives
 This lesson will serve as the student’s first opportunity to practice the skills and knowledge acquired in previous lessons relating to Fundamentals of Flight, callouts, flows, checklists and procedures. Additionally, the instructor will discuss with the student elements relating to Preflight Assessment to include Weather Information, Initial Aircraft Acceptance, and Performance and Limitations.
 
-TASKS
+SBT
+>>
 
+TASKS
 Initial aircraft acceptance
 Standard Callouts (SOPA)
 Use of Checklists
@@ -175,14 +179,15 @@ Stage 1 Lesson 5
 Ground Lesson
 Lesson Time 2.0
 
-FUNDAMENTALS OF FLIGHT
+Fundamentals of Flight
 
 OBJECTIVES
-Exhibit knowledge of the principles of aerodynamics, and stall
-awareness, spin entry, spins, and spin recovery techniques.
+Exhibit knowledge of the principles of aerodynamics, and stall awareness, spin entry, spins, and spin recovery techniques.
+
+SBT
+>>
 
 TASKS
-
 Lift and Basic Aerodynamics
 Major Components and Subcomponents
 Types of Aircraft Construction
@@ -203,7 +208,8 @@ Secondary Flight Controls
 Coordinated Flight
 Adverse Yaw
 
-Completion StandardsManeuvers
+Completion Standards
+Exhibit knowledge of the principles of aerodynamics, and stall awareness, spin entry, spins, and spin recovery techniques through written and oral examination.Maneuvers
 
 Maneuvers
 Stage 1 Lesson 6
@@ -212,6 +218,9 @@ Lesson Time 1.0
 
 Objectives
 The instructor will introduce additional required aeronautical knowledge areas and skills to include Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Slow Flight, and Steep Turns. In addition, the instructor will introduce further Safety of Flight items as defined in the Private Pilot Airman Certification Standards. All maneuvers will be introduced in accordance with the Pro Standards Standardization Manual with reference to the applicable POH, the AFH, and the PHAK.
+
+SBT
+>>
 
 TASK
 Safety of Flight
@@ -242,6 +251,9 @@ Lesson Time 2.0
 
 Objectives
 The student will practice the skills associated with Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Slow Flight, and Steep Turns. Emphasis will be on developing the student’s understanding of the associated tasks and the relevant aircraft performance.
+
+SBT
+>>
 
 TASK
 Safety of Flight
@@ -277,6 +289,9 @@ Lesson Time 2.0
 Objectives
 The student will practice the skills associated with Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Slow Flight, and Steep Turns. Emphasis will be on developing the student’s understanding of the associated tasks and the relevant aircraft performance.
 
+SBT
+>>
+
 TASK
 Safety of Flight
 Weather Information
@@ -305,18 +320,15 @@ Stage 1 Lesson 9
 Ground Lesson
 Lesson Time 2.0
 
-
-LEGAL REQUIREMENTS FOR FLIGHT
+Legal Requirements for Flight
 
 OBJECTIVES
-Exhibit knowledge of applicable federal aviation regulations for
-private pilot privileges, limitations, and flight operations; accident reporting
-requirements of the National Transportation Safety Board; and applicable
-subjects of the “Aeronautical Information Manual” and appropriate FAA
-advisory circulars.
+Exhibit knowledge of applicable federal aviation regulations for private pilot privileges, limitations, and flight operations; accident reporting requirements of the National Transportation Safety Board; and applicable subjects of the “Aeronautical Information Manual” and appropriate FAA advisory circulars.
+
+SBT
+>>
 
 TASKS
-
 Federal Aviation Regulations (14 CFRs)
 14 CFR Part 1 – Definitions and Abbreviations
 14 CFR Part 43 – Maintenance, Preventive Maintenance, Rebuilding and Alteration
@@ -341,6 +353,9 @@ Lesson Time 2.0
 
 Objectives
 The student will practice the skills Preflight Assessment, Normal Takeoffs and Landings, Traffic Pattern and Airport Operations, Stalls, Steep Turns and Ground Reference Maneuvers. Emphasis will be on developing the student’s understanding of the associated tasks and the relevant aircraft performance. Additionally, the instructor will demonstrate Accelerated Stalls and Cross-Control Stalls to the student with emphasis on avoidance.
+
+SBT
+>>
 
 TASK
 Safety of Flight
@@ -375,6 +390,9 @@ Maneuvers
 Stage 1 Lesson 11
 Dual Flight
 Lesson Time 2.0 
+
+SBT
+>>
 
 Objectives
 The student will practice the skills Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Steep Turns and Ground Reference Maneuvers. Emphasis will be on developing the student’s understanding of the associated tasks and the relevant aircraft performance. Additionally, the instructor will demonstrate Elevator Trim Stalls and Secondary Stalls to the student with emphasis on avoidance.
@@ -412,6 +430,8 @@ Stage 1 Lesson 12
 Procedures Validation
 Lesson Time 2.0 
 
+SBT
+>>
 
 Objectives
 The student will complete each checklist in a CPT as a flow pattern, followed by the checklist verification with no more than one missed flow item per checklist with no missed items during checklist verification. In addition, the instructor will introduce the student to Ground Reference Maneuvers in accordance with the Pro Standards Standardization Manual and the Airplane Flying Handbook as well as additional Safety of Flight items in accordance with the Private Pilot Airman Certification Standards.
@@ -445,6 +465,9 @@ Lesson Time 2.0
 
 Objectives
 The student will demonstrate the skills associated with Preflight Assessment, Normal Takeoffs and Landings, basic Traffic Pattern and Airport Operations, Stalls, Steep Turns and Ground Reference Maneuvers on a flight conducted by an instructor other than the student’s assigned instructor. Emphasis will be on ensuring the student’s understanding of the associated tasks and the relevant aircraft performance while focusing on VFR flight techniques.
+
+SBT
+>>
 
 TASKS
 Safety of Flight
@@ -480,16 +503,15 @@ Stage 1 Lesson 14
 Ground Lesson
 Lesson Time 2.0
 
-PERFORMANCE AND LIMITATIONS
+Performance and Limitations
 
 OBJECTIVES
-Exhibit knowledge of weight and balance computations,
-aircraft performance, including effects of density altitude on takeoff and climb
-performance, and preflight action including data on takeoff and landing
-distances.
+Exhibit knowledge of weight and balance computations, aircraft performance, including effects of density altitude on takeoff and climb performance, and preflight action including data on takeoff and landing distances.
+
+SBT
+Plan your first ski trip to Big Bear (L35). The pilot, instructor, and friend will fly to Big Bear with gear.
 
 TASKS
-
 Weight and Balance Computations
 Center of Gravity
 Moment and Moment Arm
@@ -499,13 +521,17 @@ Density Altitude
 Takeoff and Landing Performance
 Performance Speeds and Charts
 
-Completion StandardsLandings
+Completion Standards
+Exhibit knowledge of weight and balance computations, aircraft performance, including effects of density altitude on takeoff and climb performance, and preflight action including data on takeoff and landing distances by calculating a weight and balance and performance data in real time.Landings
 Stage 1 Lesson 15
 Maneuvers Briefing
 Lesson Time 2.0
 
 Objectives
 The instructor will introduce the student to the concepts required to develop the aeronautical knowledge and skill to perform Crosswind Takeoffs and Landings in accordance with the Pro Standards Standardization Manual, Pro Standards Flight Operations Manual, and the Pro Standards Private Pilot, Stage 1 Course Standards. Additionally, the instructor will further develop the student’s understanding of Airport Operations and enhance the student’s understanding of required aeronautical knowledge areas in accordance with the Pro Standards Private Pilot, Stage 1 Course Standards.
+
+SBT
+>>
 
 TASK
 Pro Standards Flight Operations Manual
@@ -523,7 +549,6 @@ Go-Around/Rejected Landing
 
 Notes: 2.0 Hrs. Ground Briefing (Suggested)
 
-
 Completion Standard
 This lesson will be graded at +50% ACS. The student demonstrates an understanding of the procedures required to perform Crosswind Takeoffs and Landings in accordance with the applicable POH, the AFH, the PHAK, and the Pro Standards Standardization Manual. Additionally, the student demonstrates an understanding of the relevant safety of flight considerations as well as an understanding of the required aeronautical knowledge elements prescribed in the Private Pilot Airplane Airman Certification Standards.
 
@@ -534,7 +559,11 @@ Stage 1 Lesson 16
 Dual Flight
 Lesson Time 2.0
 
+Objectives
 The instructor will demonstrate and then have the student practice Normal Takeoffs and Landings as well as Airport Operations. This lesson will be conducted in calm winds and weather to further develop the student’s knowledge and skills of the fundamentals of Normal Approaches and Landings.
+
+SBT
+>>
 
 TASK
 Pro Standards Flight Operations Manual
@@ -561,14 +590,16 @@ This lesson is intended as the student’s first comprehensive practice of Norma
 Completion Standard
 This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
 
-
-
 Landings
 Stage 1 Lesson 17
 Dual Flight
 Lesson Time 2.0
 
+Objectives
 The instructor and student will discuss the previously introduced elements related to the effects of wind on Takeoffs, Landings, and the Traffic Pattern.
+
+SBT
+>>
 
 TASK
 Safety of Flight
@@ -595,7 +626,11 @@ Stage 1 Lesson 18
 Dual Flight
 Lesson Time 2.0
 
+Objectives
 The instructor and student will practice Normal Takeoffs and Landings as well as Traffic Pattern operations. This lesson will further enhance the student’s knowledge and skills required to perform the required tasks associated with Takeoffs, Landings, and Airport Operations.
+
+SBT
+>>
 
 TASK
 Pro Standards Flight Operations Manual
@@ -623,7 +658,11 @@ Stage 1 Lesson 19
 Dual Flight
 Lesson Time 2.0
 
+Objectives
 The instructor and student will practice Normal Takeoffs and Landings as well as Traffic Pattern operations. This lesson will further enhance the student’s knowledge and skills required to perform the required tasks associated with Takeoffs, Landings, and Airport Operations.
+
+SBT
+>>
 
 TASK
 Pro Standards Flight Operations Manual
@@ -652,13 +691,15 @@ Stage 1 Lesson 20
 Ground Lesson
 Lesson Time 2.0
 
-NATIONAL AIRSPACE SYSTEM
+National Airspace System
 
 OBJECTIVE 
 Exhibits knowledge of the National Airspace System.
 
-TASKS
+SBT
+Operating a flight for Elon Musk from SAN to LAX, to look for suitable places to launch SpaceX’s newest rocket.
 
+TASKS
 Categories and Types of Airspace
 Controlled Airspace
 Uncontrolled Airspace
@@ -667,14 +708,19 @@ Special VFR
 Special-Use Airspace
 Special Airspace Areas
 Other Airspace Areas
-AIRSPACE AND VFR WEATHER MINIMUM LAB.
+Airspace and Weather Minimums Lab
 
-COMPLETION STANDARDSLandings
+COMPLETION STANDARDS
+Exhibits knowledge of the National Airspace System through written and oral examination.Landings
 Stage 1 Lesson 21
 Dual Flight
 Lesson Time 2.0
 
+Objectives
 The instructor and student will practice Normal Takeoffs and Landings as well as Traffic Pattern operations. This lesson will further enhance the student’s knowledge and skills required to perform the required tasks associated with Takeoffs, Landings, and Airport Operations. In addition, the instructor will introduce abnormal landings such as No-Flap Landings and Normal and Crosswind Approach and Landing (By Reference to Standby Instruments).
+
+SBT
+>>
 
 TASK
 Pro Standards Flight Operations Manual
@@ -706,7 +752,11 @@ Stage 1 Lesson 22
 Dual Flight
 Lesson Time 2.0
 
+Objectives
 The instructor and student will practice Normal Takeoffs and Landings as well as Traffic Pattern operations. The Instructor will review the student’s knowledge and skills required to perform the required tasks associated with Takeoffs, Landings, and Airport Operations, and abnormal landings such as No-Flap Landings and Normal and Crosswind Approach and Landing (By Reference to Standby Instruments).
+
+SBT
+>>
 
 TASK
 Pro Standards Flight Operations Manual
@@ -733,11 +783,6 @@ Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 
 Completion Standard
 This lesson will be graded at +50% ACS. The student performs the tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
-
-
-
-
-
 Emergencies
 
 Emergencies
@@ -747,6 +792,9 @@ Lesson Time 2.0
 
 Objectives
 The instructor will introduce the student to the concepts required to safely operate the aircraft in emergency conditions and with various systems and equipment malfunctions. The instructor will, additionally, review with the student previously covered Preflight Assessment tasks including Airworthiness Requirements and Operation of Systems. The instructor will emphasize Operation of Systems in relation to Systems and Equipment Malfunctions with reference to on the applicable POH, the AFH, the PHAK, and the Pro Standards Standardization Manual, and the Pro Standards SOPA.
+
+SBT
+>>
 
 TASK
 Pro Standards Publications
@@ -778,6 +826,9 @@ Lesson Time 2.0
 
 Objectives
 The student will complete each checklist in a CPT as a flow pattern, followed by the checklist verification with no more than one missed flow item per checklist with no missed items during checklist verification.
+
+SBT
+>>
 
 TASK
 Excessive Fuel Vapor (SOPA)
@@ -811,6 +862,9 @@ Lesson Time 2.0
 
 Objectives
 The student will practice various Systems and Equipment Malfunctions in the aircraft while also generating an understanding of the aircraft’s operation and handling during emergency operations. The instructor will additionally provide the student with a variety of scenarios to develop Aeronautical Decision Making during malfunctions and emergencies.
+
+SBT
+>>
 
 TASK
 Safety of Flight
@@ -851,6 +905,9 @@ Lesson Time 2.0
 Objectives
 The student will practice various Systems and Equipment Malfunctions in the aircraft while also generating an understanding of the aircraft’s operation and handling during emergency operations. The instructor will additionally provide the student with a variety of scenarios to develop Aeronautical Decision Making during malfunctions and emergencies.
 
+SBT
+>>
+
 TASK
 Safety of Flight
 Airworthiness Requirements
@@ -890,6 +947,9 @@ Lesson Time 2.0
 Objectives
 The student will demonstrate the required knowledge to conduct solo flight through an oral review with the instructor and the successful completion of a Pre-Solo Written Exam corrected to 100%.
 
+SBT
+>>
+
 TASK
 Pilot Qualifications
 Weather Information
@@ -914,6 +974,8 @@ Lesson Time 2.0
 Objectives
 The student will demonstrate the required aeronautical knowledge and skill to safely operate the aircraft in solo flight operations by performing all the required tasks.
 
+SBT
+>>
 
 TASK
 Initial Aircraft Acceptance (SOPA)
@@ -962,54 +1024,72 @@ Stage 1 Lesson 28
 Ground Lesson
 Lesson Time 2.0
 
-STAGE ONE REVIEW
+Stage One Review
 
 Objectives
-
 To determine through oral testing and a flight check that the student can demonstrates satisfactory proficiency of aeronautical knowledge and skill to competently and safely operate an airplane in solo flight in accordance with 14 CFR Part 141 Appendix B(6)(b).
 
-TASKS
+SBT
+>>
 
+TASKS
  Stage 1 Knowledge Areas
 
-
-Objectives
-To teach the student the aeronautical knowledge and skill of takeoffs and landings, including normal and crosswind takeoffs and Climbs, normal approaches and landings, go-around/rejected landings and forward slips to landings. Also, the student’s knowledge and experience in Traffic Patterns will be further developed.
-
-Suggested Completion Time
-Ground Briefing: 8.1 hrs.
-Dual Simulator Training: 2.0 hrs.
-Dual Flight Training: 6.8 hrs.
+Completion Standards
+The student is prepared for the Solo Knowledge Validation
 Solo Validation
 Stage One Lesson 29
 Stage One Exam
 Lesson Time 2.0
 
-STAGE ONE EXAM
-
-Objectives
-
-To determine through oral testing and a flight check that the student can demonstrates satisfactory proficiency of aeronautical knowledge and skill to competently and safely operate an airplane in solo flight in accordance with 14 CFR Part 141 Appendix B(6)(b).
-
-TASKS
-
 Stage One Exam
 
+Objectives
+To determine through oral testing and a flight check that the student can demonstrates satisfactory proficiency of aeronautical knowledge and skill to competently and safely operate an airplane in solo flight in accordance with 14 CFR Part 141 Appendix B(6)(b).
+
+SBT
+>>
+
+TASKS
+Stage One Exam
+
+Completion Standards
+Score 80% or better on Stage One Exam.Solo Validation
+Stage 1 Lesson 30
+Solo Knowledge Validation
+Lesson Time 2.0
+
+Solo Knowledge Validation
 
 Objectives
-To teach the student the aeronautical knowledge and skill of takeoffs and landings, including normal and crosswind takeoffs and Climbs, normal approaches and landings, go-around/rejected landings and forward slips to landings. Also, the student’s knowledge and experience in Traffic Patterns will be further developed.
+The student will demonstrate the required proficiency of aeronautical knowledge and skill to safely operate the aircraft in solo flight operations by performing all the required tasks.
 
-Suggested Completion Time
-Ground Briefing: 8.1 hrs.
-Dual Simulator Training: 2.0 hrs.
-Dual Flight Training: 6.8 hrs.
-Solo Validation
+SBT
+>>
+
+TASK
+Safety of Flight
+Use of Checklists
+Aeronautical Decision Making and Risk Management
+Collision Hazards
+Runway Incursion Avoidance
+Wind Shear and Wake Turbulence Avoidance
+Weather Information
+Performance and Limitations
+Operation of Systems
+National Airspace System
+
+Completion Standard
+The student completes each checklist, from memory, with a maximum of one missed item per checklist, with no missed items allowed during checklist verification, additionally the student successfully demonstrates, through oral questioning and a flight check, the knowledge and skill to operate the aircraft safely in solo operations by performing all tasks in accordance with the Pro Standards Standardization Manual and meeting the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.Solo Validation
 Stage 1 Lesson 30
 Solo Validation
 Lesson Time 2.0
 
 Objectives
 The student will demonstrate the required proficiency of aeronautical knowledge and skill to safely operate the aircraft in solo flight operations by performing all the required tasks.
+
+SBT
+>>
 
 TASK
 Safety of Flight
@@ -1038,8 +1118,7 @@ After Landing, Parking and Securing
 Notes: 1.4 Hrs. Dual Flight Training and 0.9 hrs. Pre and Post Briefing (Suggested)
 
 Completion Standard
-This lesson will be graded at +50% ACS. The student completes each checklist, from memory, with a maximum of one missed item per checklist, with no missed items allowed during checklist verification, additionally the student successfully demonstrates, through oral questioning and a flight check, the knowledge and skill to operate the aircraft safely in solo operations by performing all tasks in accordance with the Pro Standards Standardization Manual and meeting the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.
-STAGE 2 
+This lesson will be graded at +50% ACS. The student completes each checklist, from memory, with a maximum of one missed item per checklist, with no missed items allowed during checklist verification, additionally the student successfully demonstrates, through oral questioning and a flight check, the knowledge and skill to operate the aircraft safely in solo operations by performing all tasks in accordance with the Pro Standards Standardization Manual and meeting the standards prescribed in the Private Pilot Airplane Airman Certification Standards, and at no time will the safe outcome of the flight be in doubt.STAGE 2 
 
 OBJECTIVE:
 TO TEACH THE STUDENT THE AERONAUTICAL KNOWLEDGE AND SKILL TO COMPETENTLY PERFORM SAFE SOLO CROSS-COUNTRY FLIGHTS. AREAS OF OPERATIONS THAT ARE TAUGHT ARE BASIC INSTRUMENT MANEUVERS, SHORT AND SOFT-FIELD TAKEOFFS AND LANDINGS, NIGHT FLIGHT, AND NAVIGATION. IN ADDITION, THE STUDENT’S AERONAUTICAL KNOWLEDGE, SKILL, AND EXPERIENCE WILL BE FURTHER DEVELOPED TO THE LEVEL NECESSARY TO COMPETENTLY PERFORM AS A FAA CERTIFICATED PRIVATE PILOT IN THE NATIONAL AIRSPACE SYSTEM.
@@ -1667,7 +1746,7 @@ UNIT 31 LAB -- COMPLETE A FLIGHT PLAN AND DISCUSS:
 2. Filing a flight planLESSON 41 - CROSS-COUNTRY FLIGHT (DUAL XC) 
 
 Objectives
-This shorter duration Cross-Country will serve as the student’s introduction to learning to apply the techniques discussed previously. The student will learn how to operate the aircraft during Cross-Country Operations, to include Flight Planning, Pilotage and Dead Reckoning, and Navigation Systems and Radar Services.
+This shorter duration Cross-Country will serve as the student’s introduction to learning to apply the techniques discussed previously. The student will learn how to operate the aircraft during Cross-Country Operations, to include Flight Planning, Pilotage and Dead Reckoning, and Navigation Systems and Radar Services. Firelight should not be used on this lesson.
 
 TASK
 Safety of Flight
@@ -1811,7 +1890,9 @@ Notes: 2.0 Hrs. Dual Flight Training and 0.8 hrs. Pre and Post Briefing (Suggest
 
 Completion Standard
 The student demonstrates the aeronautical skills required to operate the aircraft safely during Night Cross-Country operations by performing all of the tasks to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.
-LESSON 45 - CROSS-COUNTRY FLIGHT (DUAL XC) Objectives
+LESSON 45 - CROSS-COUNTRY FLIGHT WITH FOREFLIGHT (DUAL XC) 
+
+Objectives
 This flight will serve as the final Dual Cross-Country flight and as the final opportunity for the student to practice and demonstrate the skills necessary to operate the aircraft safely during Cross-Country operations as well as verifying the student’s readiness to perform a Solo Cross-Country flight.
 
 	Safety of Flight
