@@ -63,6 +63,7 @@ Pilot weight 195 lbs
 No passagens
 Full fuel (arm 48 inches)
 20 lbs in the forward cargo
+1.1 lbs for start, taxi and takeoff allowance
 
 
 
@@ -73,7 +74,7 @@ REGULATIONS
 What preflight action is required of a pilot prior to a flight? [91.103]
 	A. Know runway lengths at the airport of intend use and takeoff and landing distance 
 	B. Become familiar with all available information
-	C. Both A and C
+	C. Both A and B
 
 What is the definition of an aerobatic maneuver. [91.303]
 	A. 30° of pitch and 70° of bank
@@ -330,7 +331,7 @@ What runway should you expect if you plan to solo on the 5th day at 1800z?
 What is your planned takeoff weight?
 	A. 1920 lbs
 	B. 1969 lbs
-	C. 2300 lbs
+	C. 1944 lbs
 
 What is the moment of the fuel?
 	A. 11,520.0
@@ -339,30 +340,30 @@ What is the moment of the fuel?
 
 What is the takeoff CG?
 	A. 39.8
-	B. 40.6
-	C. 40.9
+	B. 40.4
+	C. 40.7
 
 What is the takeoff ground roll?
 	A. 696.9 feet
-	B. 557.6 feet
+	B. 700.6 feet
 	C. 862.9 feet
 
 What is the takeoff distance to clear a 50’ obstacle?
-	A. 1014 feet
+	A. 1259 feet
 	B. 1370 feet
 	C. 1539 feet
 
 After burning 10 gallons in flight what is the planned landing weight?
-	A. 2240 feet
+	A. 2140 feet
 	B. 1909 feet
-	C. 1860 feet
+	C. 1884 feet
 
 
 
 What is the landing ground roll?
-	A. 1539 feet
-	B. 1525 feet
-	C. 1515 feet
+	A. 536 feet
+	B. 525 feet
+	C. 515 feet
 
 What is the landing distance over a 50 foot obstacle?
 	A. 1277.1 feet
