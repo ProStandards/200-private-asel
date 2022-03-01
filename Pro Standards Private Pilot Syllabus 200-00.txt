@@ -21,7 +21,14 @@
 
 Private Pilot
 Single Engine Airplane
-Hursa Corp x Lucky Aviation 2021
+
+
+
+Forward,
+
+
+Thanks to Hursa Corp and Lucky Aviation for the hard work and efforts in developing this training content.
+
 
 Table of Contents
 
@@ -48,6 +55,7 @@ SBT
 Plan a costal sight-seeing flight choosing a land mark to orbit.
 
 Tasks
+Safety Briefing
 Pre Flight
 Use of Checklists
 Positive Exchange of Flight Controls
@@ -61,7 +69,7 @@ Normal / Crosswind Landing
 Post Flight
 
 Completion Standards
-The student has been introduced to and completed the tasks of the lesson.
+The student has been introduced and completed the tasks of the lesson.
 
 
 
@@ -85,13 +93,13 @@ Course Overview
 Required Course Materials
 Course Policies
 Being PIC
-Command-ability
+Leadership
 Professionalism
-Human Factors
 ADM
 SRM
 CRM
 TEM
+Human Factors
 Local Operations
 Practice Area Review
 Collision Hazards
@@ -113,7 +121,7 @@ Objectives
 The instructor will introduce the student to the required callouts, flows, and checklist Items in accordance with the Pro Standards’ SOPA.
 
 SBT
->>
+>> A new
 
 Tasks
 Pro Standards Checklist Philosophy (SOPA)
@@ -211,7 +219,7 @@ Lesson Time 4.0
 Aircraft Systems
 
 Objectives
-Exhibit knowledge of the principles of powerplants and aircraft
+Exhibit knowledge of the principles of power-plants and aircraft
 systems.
 
 SBT
@@ -409,7 +417,8 @@ Operations with Inoperative Equipment
 Aircraft Owner/Operator Responsibilities
 Airworthiness Directives
 
-Completion StandardsManeuvers
+Completion Standards
+Exhibit knowledge of the principles of FAA regulations through written and oral examination.Maneuvers
 Stage 1 Lesson 12
 Maneuver Briefing
 Lesson Time 1.0
@@ -421,7 +430,20 @@ SBT
 >>
 
 TASK
-Ground refManeuvers
+Runway Incursion Avoidance
+Land and Hold Short Operations (LAHSO)
+Wind Shear and Wake Turbulence Avoidance
+Weather Information
+Ground Reference Maneuvers (S-turns)
+Ground Reference Maneuvers (Turns around a point)
+Ground Reference Maneuvers (Rectangular Course)
+Spin Awareness
+Accelerated Stall (Standardization Manual)
+Crossed-Control Stall (CFI Demonstration)
+After Landing, Parking and Securing
+
+Completion Standard
+The student demonstrates an understanding of the required knowledge of the tasks related to Ground Reference Maneuvers. The lesson will be complete once the instructor has introduced all the required Tasks and subsequent elements to the student.Maneuvers
 Stage 1 Lesson 13
 Dual Flight
 Lesson Time 2.0
@@ -526,6 +548,7 @@ Objectives
 The student will complete each checklist in a CPT as a flow pattern, followed by the checklist verification with no more than one missed flow item per checklist with no missed items during checklist verification.
 
 TASKS
+Aircraft Memory Items
 Before Start (SOPA)
 Engine Priming (SOPA)
 Engine Starting (SOPA)
@@ -1138,7 +1161,7 @@ Completion Standards
 Supervised Solo Flight
 
 Supervised Solo Flight
-Stage 2 Lesson 30
+Stage 2 Lesson 35
 Flight Lesson
 Lesson Time 2.0
 
@@ -1174,11 +1197,12 @@ Completion Standards
 Student completes an initial solo flight in the traffic pattern in accordance with the limitations of the Pro Standards and its procedures.
 
 
-Weather
+Supervised Solo Flight
 Stage 2 Lesson 31
 Ground Lesson
 Lesson Time 2.0
 
+Aviation Weather
 
 Objectives
 Exhibits knowledge of the recognition of critical weather situations from the ground and in flight, windshear avoidance, and the procurement and use of aeronautical weather reports and forecasts.
@@ -1215,7 +1239,7 @@ Exhibits knowledge of Weather theory and products through written and oral exami
 Basic Instrument Maneuvers 
 
 Basic Instrument Maneuvers
-Stage 2 Lesson 32
+Stage 2 Lesson 36
 Maneuvers Briefing
 Lesson Time 2.0
 
@@ -1252,7 +1276,7 @@ The student demonstrates an understanding of the aeronautical knowledge required
 
 
 Basic Instrument Maneuvers
-Stage 2 Lesson 32
+Stage 2 Lesson 37
 Flight Lesson
 Lesson Time 2.0
 
@@ -1291,7 +1315,7 @@ This lesson includes 1.0 hour of instrument training to be credited towards the 
 
 Completion Standard
 The student demonstrates the required aeronautical knowledge and skill to fly the aircraft during inadvertent VFR flight into IMC by performing all the tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed by the Private Pilot Airplane Airman Certification Standards.Basic Instrument Maneuvers
-Stage 2 Lesson 33
+Stage 2 Lesson 38
 Flight Lesson
 Lesson Time 2.0
 
@@ -1332,7 +1356,7 @@ The student successfully completes a 1.0-hour solo flight in the local practice 
 Performance Takeoffs and Landings
 
 Performance Takeoffs and Landings
-Stage 2 Lesson 34
+Stage 2 Lesson 39
 Maneuvers Brief
 Lesson Time 2.0
 
@@ -1364,8 +1388,8 @@ Notes: 2.0 Hrs. Ground Briefing (Suggested)
 Completion Standard
 The student demonstrates an understanding of all tasks in accordance with the requirements of the Private Pilot Airplane Airman Certification Standards as well as all procedures outlined in the Pro Standards Standardization Manual.
 Performance Takeoffs and Landings
-Stage 2 Lesson 35
-Maneuvers Brief
+Stage 2 Lesson 40
+Flight Lesson
 Lesson Time 2.0
 
 
@@ -1400,8 +1424,8 @@ Notes: 1.4 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 Completion Standard
 This lesson will be graded at +50% ACS. The student demonstrates the knowledge and skills required for Performance Takeoffs and Landings by performing all required tasks to the standards prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the Pro Standards Standardization Manual and the applicable POH.
 Performance Takeoffs and Landings
-Stage 2 Lesson 36
-Maneuvers Brief
+Stage 2 Lesson 41
+Flight Lesson
 Lesson Time 2.0
 
 
@@ -1438,8 +1462,38 @@ The student demonstrates the knowledge and skills required for Performance Takeo
 
 
 Performance Takeoffs and Landings
-Stage 2 Lesson 37
-Maneuvers Brief
+Stage 2 Lesson 42
+Ground Lesson
+Lesson Time 2.0
+
+Aeromedical
+
+Objectives
+Exhibit knowledge of Aeromedical Factors and aeronautical decision making and judgment.
+
+SBT
+>>It is time to start training for the Pro Standards Annual Pro Pilot Cup.
+
+TASK
+Obtaining a Medical Certificate
+Health and Physiological Factors
+Vision in Flight
+Illusions and Spatial Disorientation
+
+Aeronautical Decision Making
+Crew Resource Management
+Single-Pilot Resource Management
+Hazard and Risk
+The Decision Making Process
+Situational Awareness
+Risk Management
+Human Behavior
+
+Completion Standards
+Exhibit knowledge of the principles of Human Factors through written and oral examination.
+Performance Takeoffs and Landings
+Stage 2 Lesson 43
+Flight Lesson
 Lesson Time 2.0
 
 
@@ -1487,11 +1541,10 @@ The student demonstrates the required knowledge, skills, and Aeronautical Decisi
 
 
 
-REVIEW AND SOLO PRACTICE 
 
 Performance Takeoffs and Landings
-Stage 2 Lesson 38
-FLight Lesson
+Stage 2 Lesson 44
+Flight Lesson
 Lesson Time 2.0
 
 Objectives
@@ -1527,48 +1580,21 @@ Notes: 1.0 Hrs. Solo Flight Training (Suggested)
 - The student must meet the requirements of 14 CFR Part 141 Appendix B(5)(a)(2): Three takeoffs and three landings to a full stop (with each landing involving a flight in the Traffic Pattern) at an airport with an operating control tower before this lesson can be completed. 
 
 Completion Standard
-The student successfully completes a 1.0-hour solo flight in the Traffic Pattern in accordance with the Pro Standards FOM, Pro Standards Standardization Manual, and Pro Standards SOPA.
-
-
-
-
-
-
-Performance Takeoffs and Landings
-Stage 2 Lesson 38
-Ground Lesson
-Lesson Time 2.0
+The student successfully completes a 1.0-hour solo flight in the Traffic Pattern in accordance with the Pro Standards FOM, Pro Standards Standardization Manual, and Pro Standards SOPStage Three
 
 Objectives
-Exhibit knowledge of Aeromedical Factors and aeronautical decision making and judgment.
-
-SBT
->>It is time to start training for the Pro Standards Annual Pro Pilot Cup.
-
-TASK
-Aeromedical
-Obtaining a Medical Certificate
-Health and Physiological Factors
-Vision in Flight
-Illusions and Spatial Disorientation
-
-Aeronautical Decision Making
-Crew Resource Management
-Single-Pilot Resource Management
-Hazard and Risk
-The Decision Making Process
-Situational Awareness
-Risk Management
-Human Behavior
+To teach the student the aeronautical knowledge, and give them the aeronautical experience required for solo cross-country and night flight.
 
 Completion Standards
-Exhibit knowledge of the principles of Human Factors through written and oral examination.
-CROSS-COUNTRY AND NIGHT TRAINING
+This stage will be complete when the student exhibits aeronautical knowledge and skills describe in 14 CFR Part 61.87 - Requirements for Solo Flight and is prepared to conduct safe solo flight.
+Cross-Country and Night Training
 
 Cross-Country and Night Training
-Stage 3 Lesson 38
+Stage 3 Lesson 45
 Ground Lesson
-Lesson Time 2.0
+Lesson Time 4.0
+
+Cross-Country Flight Planning
 
 Objectives
 The instructor will introduce the aeronautical knowledge and skills required to conduct Cross-Country planning, Airport Operations in accordance with the Pro Standards Standardization Manual with reference to the PHAK and the applicable POH.
@@ -1577,7 +1603,7 @@ Exhibits knowledge of aeronautical charts for VFR navigation using pilotage, dea
 forecasts, and fuel requirements and how to plan for alternatives if the planned flight cannot be completed or delays are encountered.
 
 SBT
->>It is time to start training for the Pro Standards Annual Pro Pilot Cup.
+>>Plan a flight from KSAN to KCLX for lunch at Rosa’s Plane Food.
 
 TASK
 Aviation Security
@@ -1588,42 +1614,47 @@ National Airspace System
 Performance and Limitations
 Pilotage and Dead Reckoning
 Airport Operations
-
-UNIT 26 AERONAUTICAL CHARTS
-DISCUSS:
-1. Types of Charts
-2. Latitude and Longitude
-3. Chart Symbology
-4. Plotting Courses
-UNIT 27 INTRODUCTION TO CROSS COUNTRY PLANNING
-DISCUSS:
-1. Flight Planning Considerations
-2. Structure of a Flight Plan
-3. Checkpoint Identification
-UNIT 28 CROSS COUNTRY PERFORMANCE CHARTS
-DISCUSS:
-1. Pilot Information Manual
-2. Performance Calculations
-UNIT 29 FLIGHT COMPUTER CALCULATIONS
-DISCUSS:
-1. Effect of Wind
-2. Conversions
-3. Speed, Distance, and Time Computations
-4. Fuel Computations
-5. True Airspeed and Density Altitude
-6. Determining Magnetic Heading and Groundspeed
-7. Determining Wind Direction and Speed
-UNIT 30 PILOTAGE AND DEAD RECKONING
-DISCUSS:
-1. Pilotage and Dead Reckoning
-UNIT 31 LAB -- COMPLETE A FLIGHT PLAN AND DISCUSS:
-1. Navigation log
-2. Filing a flight plan
+Types of Charts
+Latitude and Longitude
+Chart Symbology
+Plotting Courses
+Flight Planning Considerations
+Structure of a Flight Plan
+Checkpoint Identification
+Pilot Information Manual
+Performance Calculations
+Effect of Wind
+Conversions
+Speed, Distance, and Time Computations
+Fuel Computations
+True Airspeed and Density Altitude
+Determining Magnetic Heading and Groundspeed
+Determining Wind Direction and Speed
+Pilotage and Dead Reckoning
 
 Completion Standard
 The student demonstrates an understanding of the skills required to successfully plan Cross-Country flights and conduct Cross-Country Operations in accordance with the Pro Standards Standardization Manual, the PHAK, and the applicable POH to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.Cross-Country and Night Training
-Stage 3 Lesson 38
+Stage 3 Lesson 46
 Ground Lesson
+Lesson Time 2.0
+
+Cross-Country Flight Planning Lab
+
+Objectives
+Exhibits knowledge of aeronautical charts for VFR navigation using pilotage, dead reckoning, and navigation systems; and preflight action that includes how to obtain information on runway lengths at airports of intended use, data on takeoff and landing distances, weather reports and
+forecasts, and fuel requirements and how to plan for alternatives if the planned flight cannot be completed or delays are encountered by completing a navigation log
+
+SBT
+>>Plan a flight from KSAN to KCLX for lunch at Rosa’s Plane Food.
+
+TASK 
+Navigation log
+Filing a flight plan
+
+Completion Standard
+The student demonstrates an understanding of the skills required to successfully plan Cross-Country flights and conduct Cross-Country Operations in accordance with the Pro Standards Standardization Manual, the PHAK, and the applicable POH to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.Cross-Country and Night Training
+Stage 3 Lesson 47
+Flight Lesson
 Lesson Time 2.0
 
 Objectives
@@ -1665,14 +1696,15 @@ This lesson includes 0.4 hours of instrument training to be credited towards the
 
 Completion Standard
 Student demonstrates an understanding of the requirements and procedures to conduct Cross-Country operations by performing all tasks in accordance with the Pro Standards Standardization Manual to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.
-
 Cross-Country and Night Training
-Stage 3 Lesson 38
+Stage 3 Lesson 48
 Ground Lesson
 Lesson Time 2.0
 
+Advanced Navigation Systems
+
 Objectives
-The student will further review the techniques of Cross-Country operations while additionally learning how to conduct Diversions. The instructor will also introduce the required knowledge and skills for Night Preparation and conducting night operations in accordance with the Pro Standards Standardization Manual and the PHAK.
+Exhibit knowledge of navigation systems, lost procedures and how to plan for alternatives if the planned flight cannot be completed or delays are encountered.
 
 SBT
 >>It is time to start training for the Pro Standards Annual Pro Pilot Cup.
@@ -1685,49 +1717,22 @@ Situational Awareness
 Wire Strike Avoidance
 Cross-Country Flight Planning
 Human Factors
-Navigation Systems and Radar Services
-Diversion
+VHF Omni-Directional Range (VOR)
+Horizontal Situation Indicator (HSI)
+Radio Magnetic Indicator (RMI)
+Non-Directional Radio Beacon (NDB) and
+Automatic Direction Finder (ADF)
+GPS System
+Using GPS for VFR Operations
+VFR Waypoints
 Lost Procedures
+Diversion Procedures
 Inadvertent Flight into Instrument Meteorological Conditions
 Night Preparation
 
-Notes: 2.0 Hrs. Ground Briefing (Suggested)
-
-Completion Standard
-Student demonstrates an understanding of the aeronautical knowledge present in the AFH, PHAK, and Pro Standards Standardization Manual required for both Night Operations and Cross-Country Flight Planning and operations.
-
-Cross-Country and Night Training
-Stage 3 Lesson 38
-Ground Lesson
-Lesson Time 2.0
-
-Objectives
-Exhibit knowledge of navigation systems, lost procedures and how to plan for alternatives if the planned flight cannot be completed or delays are encountered.
-
-SBT
->>It is time to start training for the Pro Standards Annual Pro Pilot Cup.
-
-TASK
-UNIT 32 RADIO NAVIGATION
-DISCUSS:
-1. VHF Omni-Directional Range (VOR)
-2. Horizontal Situation Indicator (HSI)
-3. Radio Magnetic Indicator (RMI)
-4. Non-Directional Radio Beacon (NDB) and
-Automatic Direction Finder (ADF)
-UNIT 33 GPS NAVIGATION
-DISCUSS:
-1. GPS System
-2. Using GPS for VFR Operations
-3. VFR Waypoints
-UNIT 34 LOST AND DIVERSION PROCEDURES
-DISCUSS:
-1. Lost Procedures
-2. Diversion Procedures
-
 Completion Standards
 Exhibit knowledge of the principles of Navigation Systems through written and oral examination.Cross-Country and Night Training
-Stage 3 Lesson 38
+Stage 3 Lesson 49
 Night Flight Lesson
 Lesson Time 2.0
 
@@ -1765,7 +1770,7 @@ This lesson includes 1.0 hour of night flight training to be credited towards th
 Completion Standard
 The student demonstrates the aeronautical skills required to operate the aircraft safely during night conditions by performing all of the tasks to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.
 Cross-Country and Night Training
-Stage 3 Lesson 38
+Stage 3 Lesson 50
 XC Night Flight Lesson
 Lesson Time 2.0
 
@@ -1810,10 +1815,11 @@ Notes: 2.0 Hrs. Dual Flight Training and 0.8 hrs. Pre and Post Briefing (Suggest
 - This night dual cross-country flight must satisfy the requirements of 14 CFR Part 141 Appendix B(4)(b)(1)(ii)(A): A dual cross-country flight of at least 100 nautical miles total distance at night; Four takeoffs and landings from this lesson will be credited towards the requirements of 14 CFR Part 141 Appendix B(4)(b)(1)(ii)(B): 10 takeoffs and 10 landings to a full stop (with each landing involving a flight in the Traffic Patterns) at an airport.; This lesson includes 0.4 hours of instrument training to be credited towards the requirements of 14 CFR Part 141 Appendix B(4)(b)(1)(iii): three hours of instrument training in a single-engine airplane.; This lesson includes 2.0 hours of night flight training to be credited towards the requirements of 14 CFR Part 141 Appendix B(4)(b)(1)(ii): three hours of night flight training in a single-engine airplane."
 
 Completion Standard
-The student demonstrates the aeronautical skills required to operate the aircraft safely during Night Cross-Country operations by performing all of the tasks to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.
-Cross-Country and Night Training
-Stage 3 Lesson 38
-Ground Lesson
+The student demonstrates the aeronautical skills required to operate the aircraft safely during Night Cross-Country operations by performing all of the tasks to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.Cross-Country Validation
+
+Cross-Country Validation
+Stage 3 Lesson 51
+Validation
 Lesson Time 2.0
 
 Objectives
@@ -1857,8 +1863,45 @@ Notes: 3.0 Hrs. Dual Flight Training and 0.8 hrs. Pre and Post Briefing (Suggest
 - This dual cross-country flight must satisfy the requirements of 14 CFR Part 141 Appendix B Section 4 (b) (1) (i): Three hours of cross-country flight training in a single-engine airplane.	
 
 Completion Standard	
-The student demonstrates the required knowledge and skills to safely operate the aircraft during Solo Cross-Country operations by performing all the tasks in accordance with the Pro Standards FOM, Pro Standards Standardization Manual, and Pro Standards SOPA to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.Cross-Country and Night Training
-Stage 3 Lesson 38
+The student demonstrates the required knowledge and skills to safely operate the aircraft during Solo Cross-Country operations by performing all the tasks in accordance with the Pro Standards FOM, Pro Standards Standardization Manual, and Pro Standards SOPA to the standards prescribed in the Private Pilot Airplane Airman Certification Standards.Solo Cross-Country
+
+Solo Cross-Country
+Stage 3 Lesson 52
+Solo XC Flight Lesson
+Lesson Time 3.0
+
+Objectives
+The student will complete a Solo Cross-Country that meets the requirements of 14 CFR Part 141 Appendix B Section 5(a):
+
+SBT
+>>
+
+TASK 
+Safety of Flight
+Aeronautical Decision Making and Risk Management
+Collision Hazards
+Weather Information
+Cross-Country Flight Planning
+Performance and Limitations
+Preflight Assessment
+Flight Deck Management
+Engine Starting
+Taxiing
+Before Takeoff Check
+Communications, Light Signals, and Runway Lighting Systems
+Traffic Patterns
+Normal Takeoff and Climb
+Normal Approach and Landing
+Pilotage and Dead Reckoning
+Navigation Systems and Radar Services
+After Landing, Parking and Securing
+
+Notes: 2.0 Hrs. Solo Flight Training (Suggested) 
+	
+
+Completion Standard	
+The student demonstrates the ability to safely operate the aircraft in Solo Cross-Country operations by successfully completing a flight meeting the requirements of 14 CFR Part 141 Appendix B Section 5(a).Cross-Country and Night Training
+Stage 3 Lesson 53
 Solo XC Flight Lesson
 Lesson Time 2.0
 
@@ -1899,9 +1942,11 @@ The student demonstrates the ability to safely operate the aircraft in Solo Cros
 Course Review
 
 Course Review
-Stage 3 Lesson 38
+Stage 3 Lesson 54
 Ground Lesson
 Lesson Time 2.0
+
+Course Review
 
 Objectives
 The instructor will review and evaluate the student’s aeronautical knowledge to determine that he/she is adequately prepared for the Stage 2 Stage Check and End-Of-Course Evaluations.	
@@ -1928,7 +1973,7 @@ Notes: 2.0 Hrs. Ground Briefing (Suggested)
 Completion Standard	
 Student demonstrates an understanding of the required aeronautical knowledge required by completing all the tasks to the standard prescribed by the Private Pilot-Airplane ACS and demonstrates an understanding of all required references to include the PHAK, AFH, applicable POH, and the FAR/AIM.	
 Course Review
-Stage 3 Lesson 38
+Stage 3 Lesson 55
 Ground Lesson
 Lesson Time 2.0
 
@@ -1983,8 +2028,8 @@ Completion Standard
 Student demonstrates the required aeronautical skills required by completing all the tasks to the standard prescribed by the Private Pilot Airplane Airman Certification Standards in accordance with the Pro Standards Standardization Manual and Pro Standards SOPA.	Knowledge Validation
 
 Knowledge Validation
-Stage 3 Lesson 38
-Ground Lesson
+Stage 3 Lesson 56
+Validation
 Lesson Time 2.0
 
 Objectives
@@ -1994,6 +2039,7 @@ SBT
 >>
 
 TASK 	
+Course Exam
 Pilot Qualifications
 Airworthiness Requirements
 Weather Information
@@ -2010,8 +2056,8 @@ Completion Standard
 The student demonstrates an understanding of the required aeronautical knowledge to safely conduct flight operations as an FAA certificated Private Pilot by meeting the standards prescribed in the Private Pilot Airplane Airman Certification Standards.	Maneuvers Validation
 
 Maneuvers Validation
-Stage 3 Lesson 38
-Ground Lesson
+Stage 3 Lesson 57
+Validation
 Lesson Time 2.0
 
 Objectives
@@ -2065,29 +2111,14 @@ Notes: 1.6 Hrs. Dual Flight Training and 0.5 hrs. Pre and Post Briefing (Suggest
 Completion Standard	
 The student demonstrates the required aeronautical skills to safely conduct flight operations as an FAA certificated Private Pilot by meeting the standards prescribed in the Private Pilot-Airplane ACS on all tasks.	
 
+Course Deficiencies
 
-Cross-Country and Night Training
-Stage 3 Lesson 38
+Course Deficiencies
+Stage 3 Lesson 58
 Ground Lesson
 Lesson Time 2.0
 
-Objectives
-Effectively review, evaluate, and summarize course content.
-
-SBT
->>
-
-TASK
-Private Pilot Knowledge Areas
-
-COURSE EXAM
-1. Course Exam
-2. Critique
-
-Completion StandardCross-Country and Night Training
-Stage 3 Lesson 38
-Ground Lesson
-Lesson Time 2.0
+Course Deficiencies
 
 Objectives
 The instructor will review and evaluate the student’s aeronautical knowledge to determine that he/she is adequately prepared for the Course Validation.
@@ -2099,9 +2130,11 @@ TASK
 Review Deficient Training Items	
 
 Completion Standard	
-Student demonstrates an understanding of the required aeronautical knowledge required by completing all the tasks to the standard prescribed by the Private Pilot Airplane ACS and demonstrates an understanding of all required references to include the PHAK, AFH, applicable POH, and the FAR/AIM.	Cross-Country and Night Training
-Stage 3 Lesson 38
-Ground Lesson
+Student demonstrates an understanding of the required aeronautical knowledge required by completing all the tasks to the standard prescribed by the Private Pilot Airplane ACS and demonstrates an understanding of all required references to include the PHAK, AFH, applicable POH, and the FAR/AIM.	Private Pilot Evaluation
+
+Private Pilot Evaluation
+Stage 3 Lesson 59
+Evaluation
 Lesson Time 2.0
 
 Objectives
@@ -2126,9 +2159,9 @@ Notes: 2.0 Hrs. Ground Briefing (Suggested)
 Completion Standard	
 The student demonstrates an understanding of the required aeronautical knowledge to safely conduct flight operations as an FAA certificated Private Pilot by meeting the standards prescribed in the Private Pilot Airplane Airman Certification Standards.	
 
-Course Validation
-Stage 3 Lesson 38
-Ground Lesson
+Private Pilot Evaluation
+Stage 3 Lesson 60
+Flight Evaluation
 Lesson Time 2.0
 
 Objectives
